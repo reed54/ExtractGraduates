@@ -1,0 +1,5102 @@
+[
+  {
+    "column": 1,
+    "text": "Bachelors Degrees",
+    "bbox": [
+      45.43,
+      48.264000000000124,
+      202.51012000000003,
+      61.74800000000005
+    ],
+    "name": "Bachelors Degrees",
+    "hometown": ""
+  },
+  {
+    "column": 1,
+    "text": "MAY 6.1977",
+    "bbox": [
+      90.28,
+      67.34799999999996,
+      155.87948000000003,
+      74.43799999999987
+    ],
+    "name": "MAY 6.1977",
+    "hometown": ""
+  },
+  {
+    "column": 1,
+    "text": "Mining Engineering",
+    "bbox": [
+      72.0,
+      78.61000000000013,
+      172.83104000000003,
+      86.43799999999987
+    ],
+    "name": "Mining Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 1,
+    "text": "Mono Teano Antonio Quezon City, Philippines",
+    "bbox": [
+      30.0,
+      87.94799999999987,
+      213.23870000000002,
+      93.48799999999983
+    ],
+    "name": "Mono Teano Antonio",
+    "hometown": "Quezon City, Philippines"
+  },
+  {
+    "column": 1,
+    "text": "Stacey Kristian Arnston Golden, Colorado",
+    "bbox": [
+      31.0,
+      95.69399999999996,
+      213.66438,
+      101.48799999999983
+    ],
+    "name": "Stacey Kristian Arnston",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "David Arthur Brasseil Denver, Colorado",
+    "bbox": [
+      31.0,
+      102.69399999999996,
+      213.66438,
+      107.66399999999999
+    ],
+    "name": "David Arthur Brasseil",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Paul Michael Brunner Nanaimo, British Columbia",
+    "bbox": [
+      30.72,
+      110.69399999999996,
+      214.63528000000002,
+      115.66399999999999
+    ],
+    "name": "Paul Michael Brunner",
+    "hometown": "Nanaimo, British Columbia"
+  },
+  {
+    "column": 1,
+    "text": "David Chazin Bronx, New York",
+    "bbox": [
+      31.0,
+      117.69399999999996,
+      213.97904,
+      123.66399999999999
+    ],
+    "name": "David Chazin",
+    "hometown": "Bronx, New York"
+  },
+  {
+    "column": 1,
+    "text": "HorryMilton Conger, IV Danville, California",
+    "bbox": [
+      31.28,
+      125.69399999999996,
+      213.73326,
+      131.48799999999983
+    ],
+    "name": "HorryMilton Conger, IV",
+    "hometown": "Danville, California"
+  },
+  {
+    "column": 1,
+    "text": "WadeEmanuel Cooper Denver, Colorado",
+    "bbox": [
+      31.0,
+      133.69399999999996,
+      213.66438,
+      139.48799999999983
+    ],
+    "name": "WadeEmanuel Cooper",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "DavidBruce Croas Golden, Colorado",
+    "bbox": [
+      31.0,
+      141.69399999999996,
+      213.66438,
+      146.664
+    ],
+    "name": "DavidBruce Croas",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Michael Anson Cumin Lakewood, Colorado",
+    "bbox": [
+      31.0,
+      149.69399999999996,
+      213.66438,
+      154.664
+    ],
+    "name": "Michael Anson Cumin",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Kadri Dagdelen Izmir, Turkey",
+    "bbox": [
+      30.72,
+      157.69399999999996,
+      214.2408,
+      163.48799999999983
+    ],
+    "name": "Kadri Dagdelen",
+    "hometown": "Izmir, Turkey"
+  },
+  {
+    "column": 1,
+    "text": "David William Dobbs Anchorage, Alaska",
+    "bbox": [
+      31.0,
+      165.69399999999996,
+      214.01567,
+      170.664
+    ],
+    "name": "David William Dobbs",
+    "hometown": "Anchorage, Alaska"
+  },
+  {
+    "column": 1,
+    "text": "David Scott Forbes Lakewood, Colorado",
+    "bbox": [
+      30.0,
+      173.69399999999996,
+      213.66438,
+      178.48799999999983
+    ],
+    "name": "David Scott Forbes",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Mark Robert Frauenhoff Golden, Colorado",
+    "bbox": [
+      30.0,
+      181.69399999999996,
+      213.66438,
+      185.664
+    ],
+    "name": "Mark Robert Frauenhoff",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Jerry Lee Fuller Nebo, Kentucky",
+    "bbox": [
+      30.28,
+      189.69399999999996,
+      213.62941,
+      194.48800000000006
+    ],
+    "name": "Jerry Lee Fuller",
+    "hometown": "Nebo, Kentucky"
+  },
+  {
+    "column": 1,
+    "text": "Michael John Gobla Parsippany, New Jersey",
+    "bbox": [
+      30.0,
+      197.69399999999996,
+      214.183,
+      202.48800000000006
+    ],
+    "name": "Michael John Gobla",
+    "hometown": "Parsippany, New Jersey"
+  },
+  {
+    "column": 1,
+    "text": "Lewis Bryan Gray Golden, Colorado",
+    "bbox": [
+      29.0,
+      205.69399999999996,
+      213.66438,
+      210.48800000000006
+    ],
+    "name": "Lewis Bryan Gray",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Ross Lewis Gubko Vida, Oregon",
+    "bbox": [
+      28.72,
+      213.69399999999996,
+      213.99579999999997,
+      218.48800000000006
+    ],
+    "name": "Ross Lewis Gubko",
+    "hometown": "Vida, Oregon"
+  },
+  {
+    "column": 1,
+    "text": "Ronald Satoshi Hama garni Christina Lake, British Columbia",
+    "bbox": [
+      28.72,
+      221.69399999999996,
+      213.63528000000002,
+      226.48800000000006
+    ],
+    "name": "Ronald Satoshi Hama garni",
+    "hometown": "Christina Lake, British Columbia"
+  },
+  {
+    "column": 1,
+    "text": "Galen John Hosier, III Monterey, California",
+    "bbox": [
+      29.0,
+      228.69399999999996,
+      213.57786,
+      233.48800000000006
+    ],
+    "name": "Galen John Hosier, III",
+    "hometown": "Monterey, California"
+  },
+  {
+    "column": 1,
+    "text": "Ronald Olin Hughes Wolden, Colorado",
+    "bbox": [
+      28.72,
+      236.69399999999996,
+      213.66438,
+      241.48800000000006
+    ],
+    "name": "Ronald Olin Hughes",
+    "hometown": "Wolden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Paul William Hynes Reoding, Massachusetts",
+    "bbox": [
+      28.72,
+      244.69399999999996,
+      212.34640000000002,
+      250.48800000000006
+    ],
+    "name": "Paul William Hynes",
+    "hometown": "Reoding, Massachusetts"
+  },
+  {
+    "column": 1,
+    "text": "James Robert Johnson Grand Junction, Colorado",
+    "bbox": [
+      29.28,
+      251.69399999999996,
+      213.66438,
+      257.664
+    ],
+    "name": "James Robert Johnson",
+    "hometown": "Grand Junction, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Premchai Kamasuta Bangkok, Thailand",
+    "bbox": [
+      28.72,
+      260.69399999999996,
+      213.7589,
+      265.664
+    ],
+    "name": "Premchai Kamasuta",
+    "hometown": "Bangkok, Thailand"
+  },
+  {
+    "column": 1,
+    "text": "Jerald Wayne Keifer Lokewood, Colorado",
+    "bbox": [
+      29.28,
+      267.69399999999996,
+      213.66438,
+      274.48800000000006
+    ],
+    "name": "Jerald Wayne Keifer",
+    "hometown": "Lokewood, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Andrew C. King Norwich, Connecticut",
+    "bbox": [
+      29.0,
+      275.69399999999996,
+      213.6208,
+      281.664
+    ],
+    "name": "Andrew C. King",
+    "hometown": "Norwich, Connecticut"
+  },
+  {
+    "column": 1,
+    "text": "Robert Lee Koch West Chester, Pennsylvania",
+    "bbox": [
+      28.72,
+      283.9480000000001,
+      213.23274,
+      289.664
+    ],
+    "name": "Robert Lee Koch",
+    "hometown": "West Chester, Pennsylvania"
+  },
+  {
+    "column": 1,
+    "text": "James Preston Koffer Chatsworth, California",
+    "bbox": [
+      29.28,
+      291.69399999999996,
+      212.73326,
+      297.664
+    ],
+    "name": "James Preston Koffer",
+    "hometown": "Chatsworth, California"
+  },
+  {
+    "column": 1,
+    "text": "Alvin LeRoy Langstaff Rifle, Colorado",
+    "bbox": [
+      29.0,
+      299.69399999999996,
+      213.66438,
+      305.48800000000006
+    ],
+    "name": "Alvin LeRoy Langstaff",
+    "hometown": "Rifle, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "David Bruce Mairs Cayman Islands, British West Indies",
+    "bbox": [
+      29.0,
+      307.69399999999996,
+      212.66016,
+      313.48800000000006
+    ],
+    "name": "David Bruce Mairs",
+    "hometown": "Cayman Islands, British West Indies"
+  },
+  {
+    "column": 1,
+    "text": "Dale Michael McFadden Rock Springs, Wyoming",
+    "bbox": [
+      30.0,
+      315.69399999999996,
+      213.83516,
+      320.664
+    ],
+    "name": "Dale Michael McFadden",
+    "hometown": "Rock Springs, Wyoming"
+  },
+  {
+    "column": 1,
+    "text": "Charles Rogers McLendon, III Houston, Texas",
+    "bbox": [
+      29.0,
+      323.69399999999996,
+      212.86777,
+      329.48800000000006
+    ],
+    "name": "Charles Rogers McLendon, III",
+    "hometown": "Houston, Texas"
+  },
+  {
+    "column": 1,
+    "text": "David Thomas Moore Denver, Colorado",
+    "bbox": [
+      30.0,
+      331.69399999999996,
+      213.66438,
+      336.664
+    ],
+    "name": "David Thomas Moore",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Mark John Norden Brandon, Florida",
+    "bbox": [
+      30.0,
+      339.69399999999996,
+      213.53296,
+      344.664
+    ],
+    "name": "Mark John Norden",
+    "hometown": "Brandon, Florida"
+  },
+  {
+    "column": 1,
+    "text": "Conrad Howard Pamsh Castle Rock Colorado",
+    "bbox": [
+      29.0,
+      347.69399999999996,
+      213.66438,
+      352.664
+    ],
+    "name": "Conrad Howard Pamsh",
+    "hometown": "Castle Rock Colorado"
+  },
+  {
+    "column": 1,
+    "text": "John Carmal Patton Rock Springs, Wyoming",
+    "bbox": [
+      30.28,
+      355.69399999999996,
+      212.83516,
+      360.48800000000006
+    ],
+    "name": "John Carmal Patton",
+    "hometown": "Rock Springs, Wyoming"
+  },
+  {
+    "column": 1,
+    "text": "Steven Scott Pearce Tulsa, Oklahoma",
+    "bbox": [
+      28.72,
+      363.69399999999996,
+      212.65083,
+      368.664
+    ],
+    "name": "Steven Scott Pearce",
+    "hometown": "Tulsa, Oklahoma"
+  },
+  {
+    "column": 1,
+    "text": "Michael Demis Pope Denver, Colorado",
+    "bbox": [
+      29.0,
+      370.69399999999996,
+      212.66438,
+      376.48800000000006
+    ],
+    "name": "Michael Demis Pope",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Kenneth Eari Porter Golden, Colorado",
+    "bbox": [
+      29.72,
+      378.69399999999996,
+      212.66438,
+      383.664
+    ],
+    "name": "Kenneth Eari Porter",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Larry Matthew Reschke Hotchkiss, Colorado",
+    "bbox": [
+      29.72,
+      386.69399999999996,
+      212.66438,
+      392.48800000000006
+    ],
+    "name": "Larry Matthew Reschke",
+    "hometown": "Hotchkiss, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Sharon Grace Roness Denver, Colorado",
+    "bbox": [
+      28.72,
+      394.69399999999996,
+      212.66438,
+      399.664
+    ],
+    "name": "Sharon Grace Roness",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "William Lawrence Rose Arvoda, Colorado",
+    "bbox": [
+      29.0,
+      401.69399999999996,
+      212.66438,
+      407.664
+    ],
+    "name": "William Lawrence Rose",
+    "hometown": "Arvoda, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Victor Louis Sarriugorte Lakewood, Colorado",
+    "bbox": [
+      29.0,
+      409.69399999999996,
+      212.66438,
+      415.48800000000006
+    ],
+    "name": "Victor Louis Sarriugorte",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Thomas James Schamberger Denver, Colorado",
+    "bbox": [
+      29.28,
+      417.69399999999996,
+      212.66438,
+      424.37799999999993
+    ],
+    "name": "Thomas James Schamberger",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Jomes Paiker Schmid Greeley, Colorado",
+    "bbox": [
+      29.28,
+      424.69399999999996,
+      212.66438,
+      430.664
+    ],
+    "name": "Jomes Paiker Schmid",
+    "hometown": "Greeley, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Oral DeeStaman Scottsbluff, Nebraska",
+    "bbox": [
+      29.0,
+      432.69399999999996,
+      212.55032999999997,
+      438.664
+    ],
+    "name": "Oral DeeStaman",
+    "hometown": "Scottsbluff, Nebraska"
+  },
+  {
+    "column": 1,
+    "text": "Teny John Stefanick Sharon, Pennsylvania",
+    "bbox": [
+      29.28,
+      441.69399999999996,
+      212.23274,
+      447.48800000000006
+    ],
+    "name": "Teny John Stefanick",
+    "hometown": "Sharon, Pennsylvania"
+  },
+  {
+    "column": 1,
+    "text": "William Hartley Strickland Golden, Colorado",
+    "bbox": [
+      29.0,
+      448.69399999999996,
+      212.66438,
+      454.664
+    ],
+    "name": "William Hartley Strickland",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Leonard D. Witkowski Golden, Colorado",
+    "bbox": [
+      29.0,
+      456.69399999999996,
+      212.66438,
+      461.664
+    ],
+    "name": "Leonard D. Witkowski",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Engineer of Mines",
+    "bbox": [
+      75.0,
+      466.98799999999994,
+      169.12373,
+      474.438
+    ],
+    "name": "Engineer of Mines",
+    "hometown": ""
+  },
+  {
+    "column": 1,
+    "text": "David WilliamDobbs Anchorage, Alaska",
+    "bbox": [
+      27.0,
+      476.69399999999996,
+      210.87529,
+      482.664
+    ],
+    "name": "David WilliamDobbs",
+    "hometown": "Anchorage, Alaska"
+  },
+  {
+    "column": 1,
+    "text": "Metallurgical Engineering",
+    "bbox": [
+      50.72,
+      493.61,
+      189.83104000000003,
+      502.26
+    ],
+    "name": "Metallurgical Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 1,
+    "text": "Gregory Wayne Alexander Golden, Colorado",
+    "bbox": [
+      27.0,
+      504.69399999999996,
+      210.66438,
+      510.48800000000006
+    ],
+    "name": "Gregory Wayne Alexander",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Randal Stuart Barnes Hayden, Colorado",
+    "bbox": [
+      25.72,
+      512.694,
+      210.66438,
+      517.664
+    ],
+    "name": "Randal Stuart Barnes",
+    "hometown": "Hayden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Govert Loockerman Bassett, II LaGrange, Illinois",
+    "bbox": [
+      26.0,
+      519.694,
+      210.8346,
+      524.664
+    ],
+    "name": "Govert Loockerman Bassett, II",
+    "hometown": "LaGrange, Illinois"
+  },
+  {
+    "column": 1,
+    "text": "Donald A. Bates Golden, Colorado",
+    "bbox": [
+      26.0,
+      525.694,
+      210.66438,
+      530.664
+    ],
+    "name": "Donald A. Bates",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Diane Rupli Bennett Golden, Colorado",
+    "bbox": [
+      26.0,
+      532.694,
+      210.66438,
+      537.664
+    ],
+    "name": "Diane Rupli Bennett",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Monte Lome Brothers Trail, British Columbia",
+    "bbox": [
+      26.0,
+      539.694,
+      210.63528000000002,
+      544.664
+    ],
+    "name": "Monte Lome Brothers",
+    "hometown": "Trail, British Columbia"
+  },
+  {
+    "column": 1,
+    "text": "Steven Leigh Brown Golden, Colorado",
+    "bbox": [
+      25.72,
+      546.694,
+      210.66438,
+      552.488
+    ],
+    "name": "Steven Leigh Brown",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "John Douglas Bruno Westminster, Colorado",
+    "bbox": [
+      26.28,
+      553.694,
+      210.66438,
+      559.488
+    ],
+    "name": "John Douglas Bruno",
+    "hometown": "Westminster, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Blair Burwell Golden, Colorado",
+    "bbox": [
+      25.72,
+      560.694,
+      210.66438,
+      565.664
+    ],
+    "name": "Blair Burwell",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "CarmenCarl Colifano Pueblo, Colorado",
+    "bbox": [
+      26.0,
+      567.694,
+      210.66438,
+      572.664
+    ],
+    "name": "CarmenCarl Colifano",
+    "hometown": "Pueblo, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "John Lindsay Caipenter Thornton, Colorado",
+    "bbox": [
+      26.28,
+      575.694,
+      210.66438,
+      581.488
+    ],
+    "name": "John Lindsay Caipenter",
+    "hometown": "Thornton, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Brent Kendall Christner Golden, Colorado",
+    "bbox": [
+      25.72,
+      582.694,
+      210.66438,
+      588.664
+    ],
+    "name": "Brent Kendall Christner",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "ThomasPatrick Clement, II Blackwell, Oklahoma",
+    "bbox": [
+      26.28,
+      590.694,
+      211.47108999999998,
+      595.664
+    ],
+    "name": "ThomasPatrick Clement, II",
+    "hometown": "Blackwell, Oklahoma"
+  },
+  {
+    "column": 1,
+    "text": "Linda Diane Dario Golden, Colorado",
+    "bbox": [
+      27.0,
+      598.694,
+      211.66438,
+      602.664
+    ],
+    "name": "Linda Diane Dario",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "David Edward Dombnowski Ridgefield, Connecticut",
+    "bbox": [
+      27.0,
+      604.9480000000001,
+      212.6208,
+      609.664
+    ],
+    "name": "David Edward Dombnowski",
+    "hometown": "Ridgefield, Connecticut"
+  },
+  {
+    "column": 1,
+    "text": "Darryl John Egbert Denver, Colorado",
+    "bbox": [
+      27.0,
+      612.694,
+      211.66438,
+      617.488
+    ],
+    "name": "Darryl John Egbert",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Damon Eugene Fisbeck Thornton, Colorado",
+    "bbox": [
+      27.0,
+      619.694,
+      211.66438,
+      625.488
+    ],
+    "name": "Damon Eugene Fisbeck",
+    "hometown": "Thornton, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Gary Stephen Flye Denver, Colorado",
+    "bbox": [
+      26.0,
+      627.694,
+      211.66438,
+      633.488
+    ],
+    "name": "Gary Stephen Flye",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "JaySumner Forni, Jr. Danville, California",
+    "bbox": [
+      26.28,
+      635.694,
+      211.57786,
+      641.488
+    ],
+    "name": "JaySumner Forni, Jr.",
+    "hometown": "Danville, California"
+  },
+  {
+    "column": 1,
+    "text": "Steven Gimbel Mexico City, Mexico",
+    "bbox": [
+      25.72,
+      643.694,
+      211.86188,
+      648.664
+    ],
+    "name": "Steven Gimbel",
+    "hometown": "Mexico City, Mexico"
+  },
+  {
+    "column": 1,
+    "text": "David Scott Hass Boulder, Colorado",
+    "bbox": [
+      26.0,
+      651.694,
+      210.66438,
+      656.664
+    ],
+    "name": "David Scott Hass",
+    "hometown": "Boulder, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Glenn Stuart Huppi Bakersfield, California",
+    "bbox": [
+      26.0,
+      659.694,
+      211.57786,
+      665.488
+    ],
+    "name": "Glenn Stuart Huppi",
+    "hometown": "Bakersfield, California"
+  },
+  {
+    "column": 1,
+    "text": "Ronald T. Ivey Lakewood, Colorado",
+    "bbox": [
+      26.72,
+      667.694,
+      211.66438,
+      673.488
+    ],
+    "name": "Ronald T. Ivey",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Gordon PaulKallenberg Lynnfield, Massachusetts",
+    "bbox": [
+      27.0,
+      675.694,
+      210.34640000000002,
+      680.664
+    ],
+    "name": "Gordon PaulKallenberg",
+    "hometown": "Lynnfield, Massachusetts"
+  },
+  {
+    "column": 1,
+    "text": "David Allen Korzewa Hobbs, New Mexico",
+    "bbox": [
+      27.0,
+      683.694,
+      211.86188,
+      688.664
+    ],
+    "name": "David Allen Korzewa",
+    "hometown": "Hobbs, New Mexico"
+  },
+  {
+    "column": 1,
+    "text": "Randall Kenneth Martin Littleton, Colorado",
+    "bbox": [
+      26.72,
+      691.694,
+      211.66438,
+      696.664
+    ],
+    "name": "Randall Kenneth Martin",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Frank Harrison Merrill Pittsburg, Pennsylvania",
+    "bbox": [
+      27.0,
+      699.694,
+      211.23274,
+      704.488
+    ],
+    "name": "Frank Harrison Merrill",
+    "hometown": "Pittsburg, Pennsylvania"
+  },
+  {
+    "column": 1,
+    "text": "Michael Ray Moroney Pueblo, Colorado",
+    "bbox": [
+      27.0,
+      707.694,
+      211.66438,
+      713.488
+    ],
+    "name": "Michael Ray Moroney",
+    "hometown": "Pueblo, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "William John Norris Tulsa, Oklahoma",
+    "bbox": [
+      27.0,
+      715.694,
+      211.47108999999998,
+      720.488
+    ],
+    "name": "William John Norris",
+    "hometown": "Tulsa, Oklahoma"
+  },
+  {
+    "column": 1,
+    "text": "Daniel Jerome Oppenheim Denver, Colorado",
+    "bbox": [
+      28.0,
+      723.694,
+      211.66438,
+      728.488
+    ],
+    "name": "Daniel Jerome Oppenheim",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Jay Alan Palmer Arcadia, Califomia",
+    "bbox": [
+      28.28,
+      731.694,
+      211.83524,
+      736.488
+    ],
+    "name": "Jay Alan Palmer",
+    "hometown": "Arcadia, Califomia"
+  },
+  {
+    "column": 1,
+    "text": "Stanley George Pitman Littleton, Colorado",
+    "bbox": [
+      28.0,
+      739.694,
+      211.66438,
+      744.488
+    ],
+    "name": "Stanley George Pitman",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Daniel Ray Polly Akron, Colorado",
+    "bbox": [
+      28.0,
+      747.694,
+      211.66438,
+      752.488
+    ],
+    "name": "Daniel Ray Polly",
+    "hometown": "Akron, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "William0. Renfroe, Jr. Aurora, Colorado",
+    "bbox": [
+      28.0,
+      755.694,
+      211.66438,
+      760.488
+    ],
+    "name": "William0. Renfroe, Jr.",
+    "hometown": "Aurora, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Elane Carol Sanderson Idaho Springs, Colorado",
+    "bbox": [
+      27.72,
+      763.694,
+      211.66438,
+      768.488
+    ],
+    "name": "Elane Carol Sanderson",
+    "hometown": "Idaho Springs, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Craig Wolfe Sandusky Denver, Colorado",
+    "bbox": [
+      29.0,
+      770.694,
+      211.66438,
+      776.488
+    ],
+    "name": "Craig Wolfe Sandusky",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Richard Gordon Schupmann Downers Grove, Illinois",
+    "bbox": [
+      28.72,
+      778.694,
+      212.8346,
+      783.664
+    ],
+    "name": "Richard Gordon Schupmann",
+    "hometown": "Downers Grove, Illinois"
+  },
+  {
+    "column": 1,
+    "text": "Peter Alan Steinmeyer Colorado Springs, Colorado",
+    "bbox": [
+      28.72,
+      786.694,
+      212.66438,
+      792.488
+    ],
+    "name": "Peter Alan Steinmeyer",
+    "hometown": "Colorado Springs, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Jon Raymond Taylor Maumee, Ohio",
+    "bbox": [
+      29.28,
+      795.694,
+      212.89792,
+      800.488
+    ],
+    "name": "Jon Raymond Taylor",
+    "hometown": "Maumee, Ohio"
+  },
+  {
+    "column": 1,
+    "text": "Andrea Jean Troutman Buena Vista, Colorado",
+    "bbox": [
+      29.0,
+      802.694,
+      212.66438,
+      807.664
+    ],
+    "name": "Andrea Jean Troutman",
+    "hometown": "Buena Vista, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Ronnie Jerry Vasquez Westminster, Colorado",
+    "bbox": [
+      28.72,
+      810.694,
+      212.66438,
+      815.488
+    ],
+    "name": "Ronnie Jerry Vasquez",
+    "hometown": "Westminster, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "John Richard Winkel Denver, Colorado",
+    "bbox": [
+      29.28,
+      818.694,
+      212.66438,
+      822.664
+    ],
+    "name": "John Richard Winkel",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "David Gordon Winslow Golden, Colorado",
+    "bbox": [
+      29.0,
+      826.694,
+      212.66438,
+      831.488
+    ],
+    "name": "David Gordon Winslow",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Geological Engineering",
+    "bbox": [
+      58.28,
+      838.348,
+      178.24344000000002,
+      846.26
+    ],
+    "name": "Geological Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 1,
+    "text": "Jorge Daniel Benavides Alfaro Lima, Peru",
+    "bbox": [
+      28.28,
+      850.694,
+      210.61792,
+      855.488
+    ],
+    "name": "Jorge Daniel Benavides Alfaro",
+    "hometown": "Lima, Peru"
+  },
+  {
+    "column": 1,
+    "text": "Raymond Eari Bailey Denver, Colorado",
+    "bbox": [
+      28.0,
+      857.694,
+      211.66438,
+      863.488
+    ],
+    "name": "Raymond Eari Bailey",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Charles John Barthel, Jr. Denver, Colorado",
+    "bbox": [
+      28.0,
+      865.694,
+      211.66438,
+      871.488
+    ],
+    "name": "Charles John Barthel, Jr.",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "David Alan Bickford Coming, NewYork",
+    "bbox": [
+      28.0,
+      873.694,
+      210.97904,
+      878.664
+    ],
+    "name": "David Alan Bickford",
+    "hometown": "Coming, NewYork"
+  },
+  {
+    "column": 1,
+    "text": "Michael Carney Colorodo Springs, Colorado",
+    "bbox": [
+      28.0,
+      881.694,
+      211.66438,
+      886.488
+    ],
+    "name": "Michael Carney",
+    "hometown": "Colorodo Springs, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "William A. Gncilla Easton, Pennsylvania",
+    "bbox": [
+      28.0,
+      889.694,
+      211.23274,
+      894.488
+    ],
+    "name": "William A. Gncilla",
+    "hometown": "Easton, Pennsylvania"
+  },
+  {
+    "column": 1,
+    "text": "William Michael Colieary Ellicott Gty, Maryland",
+    "bbox": [
+      28.0,
+      897.694,
+      213.01408,
+      903.3779999999999
+    ],
+    "name": "William Michael Colieary",
+    "hometown": "Ellicott Gty, Maryland"
+  },
+  {
+    "column": 1,
+    "text": "JamesLynn Comellisson Aurora, Colorado",
+    "bbox": [
+      28.28,
+      905.694,
+      211.66438,
+      910.488
+    ],
+    "name": "JamesLynn Comellisson",
+    "hometown": "Aurora, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Michael Kim Decker Golden, Colorado",
+    "bbox": [
+      27.0,
+      912.694,
+      211.66438,
+      917.664
+    ],
+    "name": "Michael Kim Decker",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Terry Parker Evans Des Peres, Missouri",
+    "bbox": [
+      27.28,
+      920.694,
+      211.61988,
+      925.488
+    ],
+    "name": "Terry Parker Evans",
+    "hometown": "Des Peres, Missouri"
+  },
+  {
+    "column": 1,
+    "text": "Paula Fedec Littleton, Colorado",
+    "bbox": [
+      26.72,
+      928.694,
+      211.66438,
+      933.488
+    ],
+    "name": "Paula Fedec",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Sandra Kathleen Gqbbett Wyckoff, New Jersey",
+    "bbox": [
+      26.72,
+      936.694,
+      212.183,
+      942.3779999999999
+    ],
+    "name": "Sandra Kathleen Gqbbett",
+    "hometown": "Wyckoff, New Jersey"
+  },
+  {
+    "column": 1,
+    "text": "David Edgar Germer Golden, Colorado",
+    "bbox": [
+      27.0,
+      943.694,
+      211.66438,
+      949.488
+    ],
+    "name": "David Edgar Germer",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "William Kirk Gibbs, Jr. Salido, Colorado",
+    "bbox": [
+      27.0,
+      951.694,
+      211.66438,
+      957.488
+    ],
+    "name": "William Kirk Gibbs, Jr.",
+    "hometown": "Salido, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "frank Joseph Hagar, Jr. Georgetown, South Carolina",
+    "bbox": [
+      27.0,
+      959.694,
+      211.80636,
+      964.664
+    ],
+    "name": "frank Joseph Hagar, Jr.",
+    "hometown": "Georgetown, South Carolina"
+  },
+  {
+    "column": 1,
+    "text": "Mark Francis Hillenbrond Broomfield, Colorado",
+    "bbox": [
+      27.0,
+      967.694,
+      211.66438,
+      972.488
+    ],
+    "name": "Mark Francis Hillenbrond",
+    "hometown": "Broomfield, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Keith Eric L'ivo Lakewood, Colorado",
+    "bbox": [
+      26.72,
+      975.694,
+      211.66438,
+      980.488
+    ],
+    "name": "Keith Eric L'ivo",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "William Stanley Ludwick Ketchikan, Alaska",
+    "bbox": [
+      27.0,
+      982.694,
+      211.87529,
+      988.488
+    ],
+    "name": "William Stanley Ludwick",
+    "hometown": "Ketchikan, Alaska"
+  },
+  {
+    "column": 1,
+    "text": "Janet Elizabeth Moorman Denver, Colorado",
+    "bbox": [
+      27.28,
+      989.694,
+      211.66438,
+      994.664
+    ],
+    "name": "Janet Elizabeth Moorman",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Eric Eugene Morti San Antonio, Texas",
+    "bbox": [
+      26.72,
+      997.694,
+      211.86777,
+      1002.488
+    ],
+    "name": "Eric Eugene Morti",
+    "hometown": "San Antonio, Texas"
+  },
+  {
+    "column": 1,
+    "text": "Robert Raymond Nichols Gautier, Mississippi",
+    "bbox": [
+      26.72,
+      1004.694,
+      211.33985,
+      1010.378
+    ],
+    "name": "Robert Raymond Nichols",
+    "hometown": "Gautier, Mississippi"
+  },
+  {
+    "column": 1,
+    "text": "Michael Harold Portigal Ottawa, Ontario, Canada",
+    "bbox": [
+      26.0,
+      1012.694,
+      211.79016,
+      1018.378
+    ],
+    "name": "Michael Harold Portigal",
+    "hometown": "Ottawa, Ontario, Canada"
+  },
+  {
+    "column": 1,
+    "text": "Paul Michael Rivera Denver, Colorado",
+    "bbox": [
+      25.72,
+      1020.694,
+      211.66438,
+      1024.664
+    ],
+    "name": "Paul Michael Rivera",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Jomes Michoel Sullivan Littleton, Colorado",
+    "bbox": [
+      27.28,
+      1028.694,
+      211.66438,
+      1033.488
+    ],
+    "name": "Jomes Michoel Sullivan",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Vincent Norman Vogt Colorado Springs, Colorado",
+    "bbox": [
+      26.0,
+      1035.694,
+      211.66438,
+      1041.488
+    ],
+    "name": "Vincent Norman Vogt",
+    "hometown": "Colorado Springs, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Stephen Carter Weston Littleton, Colorado",
+    "bbox": [
+      26.0,
+      1043.694,
+      211.66438,
+      1048.664
+    ],
+    "name": "Stephen Carter Weston",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "P\u00abtrol\u00abum Engineering",
+    "bbox": [
+      61.72,
+      1054.028,
+      181.83104000000003,
+      1062.26
+    ],
+    "name": "P\u00abtrol\u00abum Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 1,
+    "text": "Mi Bahavar Tehran, Iran",
+    "bbox": [
+      27.0,
+      1064.694,
+      212.57988,
+      1068.664
+    ],
+    "name": "Mi Bahavar",
+    "hometown": "Tehran, Iran"
+  },
+  {
+    "column": 1,
+    "text": "Robert Scott Bolmer Lakewood, Colorado",
+    "bbox": [
+      26.72,
+      1072.694,
+      211.66438,
+      1077.488
+    ],
+    "name": "Robert Scott Bolmer",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "PaulRichard Brandt Aurora, Cblorodo",
+    "bbox": [
+      26.72,
+      1080.694,
+      211.66438,
+      1085.488
+    ],
+    "name": "PaulRichard Brandt",
+    "hometown": "Aurora, Cblorodo"
+  },
+  {
+    "column": 1,
+    "text": "Wiliam F. Clark Colorado Springs, Colorado",
+    "bbox": [
+      27.0,
+      1088.694,
+      211.66438,
+      1093.488
+    ],
+    "name": "Wiliam F. Clark",
+    "hometown": "Colorado Springs, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Rob Walace Colemon Gunnison, Colorado",
+    "bbox": [
+      26.72,
+      1095.694,
+      211.66438,
+      1101.488
+    ],
+    "name": "Rob Walace Colemon",
+    "hometown": "Gunnison, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "David Bovaird Crawford, II Englewood, Colorado",
+    "bbox": [
+      26.0,
+      1103.694,
+      211.66438,
+      1109.488
+    ],
+    "name": "David Bovaird Crawford, II",
+    "hometown": "Englewood, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Kenneth R. Gordon Corpus Christi, Texas",
+    "bbox": [
+      25.72,
+      1111.694,
+      211.86777,
+      1116.664
+    ],
+    "name": "Kenneth R. Gordon",
+    "hometown": "Corpus Christi, Texas"
+  },
+  {
+    "column": 1,
+    "text": "Stephen Michoel Horrhurg Denver, Colorado",
+    "bbox": [
+      26.0,
+      1119.694,
+      211.66438,
+      1124.488
+    ],
+    "name": "Stephen Michoel Horrhurg",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Charles Arthur Hansen Shoshone, Idaho",
+    "bbox": [
+      26.0,
+      1127.694,
+      212.5108,
+      1132.488
+    ],
+    "name": "Charles Arthur Hansen",
+    "hometown": "Shoshone, Idaho"
+  },
+  {
+    "column": 1,
+    "text": "Juke Marie Heusser Anchorage,Alaska",
+    "bbox": [
+      25.28,
+      1135.694,
+      212.01567,
+      1140.664
+    ],
+    "name": "Juke Marie Heusser",
+    "hometown": "Anchorage,Alaska"
+  },
+  {
+    "column": 1,
+    "text": "GoryEdward Houghton Denver, Colorado",
+    "bbox": [
+      25.0,
+      1143.694,
+      211.66438,
+      1149.378
+    ],
+    "name": "GoryEdward Houghton",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "David H. Johnson Denver, Colorado",
+    "bbox": [
+      25.0,
+      1149.694,
+      212.47578000000001,
+      1156.488
+    ],
+    "name": "David H. Johnson",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 1,
+    "text": "Richard Lanremora Livermore, III Arlington, Virginia",
+    "bbox": [
+      25,
+      1157.988,
+      211.90398,
+      1163.664
+    ],
+    "name": "Richard Lanremora Livermore, III",
+    "hometown": "Arlington, Virginia"
+  },
+  {
+    "column": 2,
+    "text": "John Craig Magill Kettering, Ohio",
+    "bbox": [
+      231.28,
+      321.69399999999996,
+      413.89792,
+      327.48800000000006
+    ],
+    "name": "John Craig Magill",
+    "hometown": "Kettering, Ohio"
+  },
+  {
+    "column": 2,
+    "text": "Robert Ray Mann Sidney, Nebraska",
+    "bbox": [
+      230.72,
+      329.69399999999996,
+      413.55033,
+      335.48800000000006
+    ],
+    "name": "Robert Ray Mann",
+    "hometown": "Sidney, Nebraska"
+  },
+  {
+    "column": 2,
+    "text": "Thomas Stith Mead, 111 Wichita, Kansas",
+    "bbox": [
+      230.28,
+      337.69399999999996,
+      413.62845000000004,
+      342.664
+    ],
+    "name": "Thomas Stith Mead, 111",
+    "hometown": "Wichita, Kansas"
+  },
+  {
+    "column": 2,
+    "text": "Gary Jan Nilson Denver, Colorado",
+    "bbox": [
+      230.0,
+      345.69399999999996,
+      413.66438,
+      351.48800000000006
+    ],
+    "name": "Gary Jan Nilson",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "James Ray Oberlander Las Animas, Colorado",
+    "bbox": [
+      230.28,
+      353.69399999999996,
+      413.66438,
+      358.664
+    ],
+    "name": "James Ray Oberlander",
+    "hometown": "Las Animas, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Gordon Thomas Poss Hugo, Colorado",
+    "bbox": [
+      230.0,
+      361.69399999999996,
+      413.66438,
+      366.48800000000006
+    ],
+    "name": "Gordon Thomas Poss",
+    "hometown": "Hugo, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Wiliam Arthur Sargent Pampa, Texas",
+    "bbox": [
+      230.0,
+      369.69399999999996,
+      412.86776999999995,
+      374.48800000000006
+    ],
+    "name": "Wiliam Arthur Sargent",
+    "hometown": "Pampa, Texas"
+  },
+  {
+    "column": 2,
+    "text": "David Michael Skelton Colorado Springs, Colorado",
+    "bbox": [
+      230.0,
+      376.69399999999996,
+      412.66438,
+      382.48800000000006
+    ],
+    "name": "David Michael Skelton",
+    "hometown": "Colorado Springs, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "James Edward Stepinski Graniteville, Massachusetts",
+    "bbox": [
+      229.28,
+      384.69399999999996,
+      412.47943000000004,
+      390.664
+    ],
+    "name": "James Edward Stepinski",
+    "hometown": "Graniteville, Massachusetts"
+  },
+  {
+    "column": 2,
+    "text": "Michael E. Ward Westminster, Colorado",
+    "bbox": [
+      229.0,
+      393.69399999999996,
+      412.66438,
+      398.48800000000006
+    ],
+    "name": "Michael E. Ward",
+    "hometown": "Westminster, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Robert Lynch Williams Vienna, West Virginia",
+    "bbox": [
+      228.72,
+      401.69399999999996,
+      412.68368,
+      406.48800000000006
+    ],
+    "name": "Robert Lynch Williams",
+    "hometown": "Vienna, West Virginia"
+  },
+  {
+    "column": 2,
+    "text": "Chemical and Petroleum-",
+    "bbox": [
+      253.0,
+      413.028,
+      386.56870000000004,
+      419.26800000000003
+    ],
+    "name": "Chemical and Petroleum-",
+    "hometown": ""
+  },
+  {
+    "column": 2,
+    "text": "Mohammed Farag Abduljalil Benghazi, Libya",
+    "bbox": [
+      228.0,
+      437.69399999999996,
+      411.38320000000004,
+      442.48800000000006
+    ],
+    "name": "Mohammed Farag Abduljalil",
+    "hometown": "Benghazi, Libya"
+  },
+  {
+    "column": 2,
+    "text": "John Kistler Coors Golden, Colorado",
+    "bbox": [
+      228.28,
+      445.69399999999996,
+      412.66438,
+      450.664
+    ],
+    "name": "John Kistler Coors",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Randall Arthur Day Bakersfield, California",
+    "bbox": [
+      227.72,
+      453.69399999999996,
+      411.73326000000003,
+      458.48800000000006
+    ],
+    "name": "Randall Arthur Day",
+    "hometown": "Bakersfield, California"
+  },
+  {
+    "column": 2,
+    "text": "Sheldon Thomas Edwards Boulder, Colorado",
+    "bbox": [
+      227.72,
+      461.69399999999996,
+      412.66438,
+      465.664
+    ],
+    "name": "Sheldon Thomas Edwards",
+    "hometown": "Boulder, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Jeffrey A. England Littleton, Colorado",
+    "bbox": [
+      228.28,
+      469.69399999999996,
+      412.66438,
+      474.48800000000006
+    ],
+    "name": "Jeffrey A. England",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Steven Charles Fasold Manitou Springs, Colorado",
+    "bbox": [
+      227.72,
+      477.69399999999996,
+      412.66438,
+      482.48800000000006
+    ],
+    "name": "Steven Charles Fasold",
+    "hometown": "Manitou Springs, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Howard Adam Fuchs Eaton, Colorado",
+    "bbox": [
+      228.0,
+      484.69399999999996,
+      411.66438,
+      490.48800000000006
+    ],
+    "name": "Howard Adam Fuchs",
+    "hometown": "Eaton, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "James Michael Gindelberger Boulder, Colorado",
+    "bbox": [
+      228.28,
+      492.69399999999996,
+      411.66438,
+      498.664
+    ],
+    "name": "James Michael Gindelberger",
+    "hometown": "Boulder, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Douglas Max Ginley Denver, Colorado",
+    "bbox": [
+      228.0,
+      500.69399999999996,
+      411.66438,
+      506.48800000000006
+    ],
+    "name": "Douglas Max Ginley",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "John Gregory Gott Pueblo, Colorado",
+    "bbox": [
+      227.28,
+      508.69399999999996,
+      411.66438,
+      514.488
+    ],
+    "name": "John Gregory Gott",
+    "hometown": "Pueblo, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Robert Lamar Griffis Denver, Colorado",
+    "bbox": [
+      226.72,
+      516.694,
+      411.66438,
+      520.664
+    ],
+    "name": "Robert Lamar Griffis",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Gerald Wayne Harrow Greeley, Colorado",
+    "bbox": [
+      227.0,
+      524.694,
+      411.66438,
+      529.488
+    ],
+    "name": "Gerald Wayne Harrow",
+    "hometown": "Greeley, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Daniel John Helgoth Fleming, Colorado",
+    "bbox": [
+      228.0,
+      531.694,
+      411.66438,
+      536.488
+    ],
+    "name": "Daniel John Helgoth",
+    "hometown": "Fleming, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Michael D. Hiza Boulder, Colorado",
+    "bbox": [
+      227.0,
+      539.694,
+      411.66438,
+      544.488
+    ],
+    "name": "Michael D. Hiza",
+    "hometown": "Boulder, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "James Anthony Lillo Wheat Ridge, Colorado",
+    "bbox": [
+      227.28,
+      547.654,
+      411.66438,
+      552.488
+    ],
+    "name": "James Anthony Lillo",
+    "hometown": "Wheat Ridge, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "James Patrick McCann Colorado Springs, Colorado",
+    "bbox": [
+      227.28,
+      555.694,
+      411.66438,
+      560.488
+    ],
+    "name": "James Patrick McCann",
+    "hometown": "Colorado Springs, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Jesse Lynn McDaniel La Junta, Colorado",
+    "bbox": [
+      227.28,
+      563.694,
+      411.66438,
+      568.488
+    ],
+    "name": "Jesse Lynn McDaniel",
+    "hometown": "La Junta, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Robert Andrew Mitchell Craig, Colorado",
+    "bbox": [
+      226.72,
+      570.694,
+      411.66438,
+      575.488
+    ],
+    "name": "Robert Andrew Mitchell",
+    "hometown": "Craig, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Kendall Dean Olander Longmont, Colorado",
+    "bbox": [
+      226.72,
+      578.694,
+      411.66438,
+      583.488
+    ],
+    "name": "Kendall Dean Olander",
+    "hometown": "Longmont, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Kevin WaynePatterson Lakewood, Colorado",
+    "bbox": [
+      226.72,
+      586.694,
+      411.66438,
+      591.488
+    ],
+    "name": "Kevin WaynePatterson",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Douglas John Pike Grand Island, New York",
+    "bbox": [
+      228.0,
+      594.694,
+      411.822,
+      599.488
+    ],
+    "name": "Douglas John Pike",
+    "hometown": "Grand Island, New York"
+  },
+  {
+    "column": 2,
+    "text": "Barry John Pritchard Kersey, Colorado",
+    "bbox": [
+      227.72,
+      600.694,
+      411.66438,
+      606.664
+    ],
+    "name": "Barry John Pritchard",
+    "hometown": "Kersey, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Lynn Marie Ryan South Holland, Illinois",
+    "bbox": [
+      227.72,
+      608.694,
+      411.8346,
+      614.488
+    ],
+    "name": "Lynn Marie Ryan",
+    "hometown": "South Holland, Illinois"
+  },
+  {
+    "column": 2,
+    "text": "Steven Kent Saborsky Denver, Colorado",
+    "bbox": [
+      226.72,
+      616.694,
+      411.66438,
+      621.488
+    ],
+    "name": "Steven Kent Saborsky",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Paul D. Schiefelbein Pittsburg, Kansas",
+    "bbox": [
+      226.72,
+      624.694,
+      410.62845000000004,
+      630.3779999999999
+    ],
+    "name": "Paul D. Schiefelbein",
+    "hometown": "Pittsburg, Kansas"
+  },
+  {
+    "column": 2,
+    "text": "JosephWalterStinson Lakewood, Colorado",
+    "bbox": [
+      227.28,
+      632.694,
+      410.66438,
+      637.488
+    ],
+    "name": "JosephWalterStinson",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Sidney J. Stone, 111 Euclid, Ohio",
+    "bbox": [
+      226.0,
+      639.694,
+      410.89792,
+      644.488
+    ],
+    "name": "Sidney J. Stone, 111",
+    "hometown": "Euclid, Ohio"
+  },
+  {
+    "column": 2,
+    "text": "Kathleen MargaretWiltsey Staten Island, New York",
+    "bbox": [
+      225.72,
+      647.694,
+      410.97904,
+      653.488
+    ],
+    "name": "Kathleen MargaretWiltsey",
+    "hometown": "Staten Island, New York"
+  },
+  {
+    "column": 2,
+    "text": "Geophysical Engineering",
+    "bbox": [
+      255.28,
+      665.61,
+      385.83104000000003,
+      673.26
+    ],
+    "name": "Geophysical Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 2,
+    "text": "Kelly Scott Beal Makaha, Oahu, Hawaii",
+    "bbox": [
+      225.72,
+      677.694,
+      409.87,
+      683.488
+    ],
+    "name": "Kelly Scott Beal",
+    "hometown": "Makaha, Oahu, Hawaii"
+  },
+  {
+    "column": 2,
+    "text": "Reginald Lamont Beasley Denver, Colorado",
+    "bbox": [
+      226.0,
+      685.694,
+      410.66438,
+      690.488
+    ],
+    "name": "Reginald Lamont Beasley",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Patricia Irene Berg Vails Gate, New York",
+    "bbox": [
+      225.72,
+      693.694,
+      410.822,
+      698.488
+    ],
+    "name": "Patricia Irene Berg",
+    "hometown": "Vails Gate, New York"
+  },
+  {
+    "column": 2,
+    "text": "James Erwin Breninger Johnstown, Colorado",
+    "bbox": [
+      226.28,
+      701.694,
+      410.66438,
+      706.664
+    ],
+    "name": "James Erwin Breninger",
+    "hometown": "Johnstown, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Gregory Lee Brown Durango, Colorado",
+    "bbox": [
+      226.0,
+      709.694,
+      410.66438,
+      715.488
+    ],
+    "name": "Gregory Lee Brown",
+    "hometown": "Durango, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Guy Flanagan Longmont, Colorado",
+    "bbox": [
+      226.0,
+      717.694,
+      410.66438,
+      722.488
+    ],
+    "name": "Guy Flanagan",
+    "hometown": "Longmont, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "David Allison Forson, Jr. Lakewood, Colorado",
+    "bbox": [
+      226.0,
+      725.694,
+      410.66438,
+      730.488
+    ],
+    "name": "David Allison Forson, Jr.",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Steven Robert Gillis Littleton, Colorado",
+    "bbox": [
+      225.72,
+      733.694,
+      410.66438,
+      738.488
+    ],
+    "name": "Steven Robert Gillis",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Rory Delia Gilpatrick Vernon, New Jersey",
+    "bbox": [
+      226.0,
+      741.694,
+      411.18299999999994,
+      746.488
+    ],
+    "name": "Rory Delia Gilpatrick",
+    "hometown": "Vernon, New Jersey"
+  },
+  {
+    "column": 2,
+    "text": "John Scott Gustafson Denver, Colorado",
+    "bbox": [
+      226.28,
+      749.694,
+      410.66438,
+      754.488
+    ],
+    "name": "John Scott Gustafson",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Gunnar Erik Holmes Cornwall, Connecticut",
+    "bbox": [
+      226.0,
+      757.694,
+      410.6208,
+      762.488
+    ],
+    "name": "Gunnar Erik Holmes",
+    "hometown": "Cornwall, Connecticut"
+  },
+  {
+    "column": 2,
+    "text": "Gary Lewis Jones Idaho Springs, Colorado",
+    "bbox": [
+      226.0,
+      765.694,
+      410.66438,
+      770.488
+    ],
+    "name": "Gary Lewis Jones",
+    "hometown": "Idaho Springs, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "David Eric Joseffy Lakewood, Colorado",
+    "bbox": [
+      226.0,
+      772.694,
+      410.66438,
+      778.488
+    ],
+    "name": "David Eric Joseffy",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Daniel Leo Kurkle Du\u00dfois, Pennsylvania",
+    "bbox": [
+      227.0,
+      780.694,
+      410.23274000000004,
+      786.488
+    ],
+    "name": "Daniel Leo Kurkle",
+    "hometown": "Du\u00dfois, Pennsylvania"
+  },
+  {
+    "column": 2,
+    "text": "Debra Susan Lamb Arvada, Colorado",
+    "bbox": [
+      227.0,
+      788.694,
+      410.66438,
+      793.664
+    ],
+    "name": "Debra Susan Lamb",
+    "hometown": "Arvada, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "James Craig Laughry Bartlesville, Oklahoma",
+    "bbox": [
+      227.28,
+      796.948,
+      410.65083000000004,
+      802.3779999999999
+    ],
+    "name": "James Craig Laughry",
+    "hometown": "Bartlesville, Oklahoma"
+  },
+  {
+    "column": 2,
+    "text": "John Douglas Lorimer Golden, Colorado",
+    "bbox": [
+      227.28,
+      804.694,
+      410.66438,
+      810.3779999999999
+    ],
+    "name": "John Douglas Lorimer",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Lowell Roger Martinson Lakewood, Colorado",
+    "bbox": [
+      227.0,
+      812.694,
+      410.66438,
+      817.488
+    ],
+    "name": "Lowell Roger Martinson",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Allen Eari May Northglenn, Colorado",
+    "bbox": [
+      227.0,
+      820.694,
+      410.66438,
+      825.488
+    ],
+    "name": "Allen Eari May",
+    "hometown": "Northglenn, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "David Michael McMamess Findlay, Ohio",
+    "bbox": [
+      228.0,
+      828.694,
+      410.89792,
+      833.488
+    ],
+    "name": "David Michael McMamess",
+    "hometown": "Findlay, Ohio"
+  },
+  {
+    "column": 2,
+    "text": "Thomas Orland Miles Boone, lowa",
+    "bbox": [
+      228.28,
+      836.694,
+      410.97904,
+      841.488
+    ],
+    "name": "Thomas Orland Miles",
+    "hometown": "Boone, lowa"
+  },
+  {
+    "column": 2,
+    "text": "Stephen Paul Mitchell Westminster, Colorado",
+    "bbox": [
+      228.0,
+      843.694,
+      411.66438,
+      849.488
+    ],
+    "name": "Stephen Paul Mitchell",
+    "hometown": "Westminster, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Jeffry Thomas O'Kelley Colorado Springs, Colorado",
+    "bbox": [
+      228.28,
+      851.694,
+      411.66438,
+      856.488
+    ],
+    "name": "Jeffry Thomas O'Kelley",
+    "hometown": "Colorado Springs, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Russell Robert Opfer Des Plaines, Illinois",
+    "bbox": [
+      227.72,
+      858.694,
+      411.8346,
+      864.488
+    ],
+    "name": "Russell Robert Opfer",
+    "hometown": "Des Plaines, Illinois"
+  },
+  {
+    "column": 2,
+    "text": "Gordon Casey Ross Tulsa, Oklahoma",
+    "bbox": [
+      228.0,
+      866.694,
+      410.65083000000004,
+      872.488
+    ],
+    "name": "Gordon Casey Ross",
+    "hometown": "Tulsa, Oklahoma"
+  },
+  {
+    "column": 2,
+    "text": "Stewart Laurence Sampson Granby, Colorado",
+    "bbox": [
+      227.72,
+      874.694,
+      411.66438,
+      879.488
+    ],
+    "name": "Stewart Laurence Sampson",
+    "hometown": "Granby, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Joel Edward Scott, II Northridge, California",
+    "bbox": [
+      228.28,
+      882.694,
+      411.73326000000003,
+      887.488
+    ],
+    "name": "Joel Edward Scott, II",
+    "hometown": "Northridge, California"
+  },
+  {
+    "column": 2,
+    "text": "Daniel JackShearer Issaquah, Washington",
+    "bbox": [
+      228.0,
+      890.694,
+      411.72319999999996,
+      895.488
+    ],
+    "name": "Daniel JackShearer",
+    "hometown": "Issaquah, Washington"
+  },
+  {
+    "column": 2,
+    "text": "Francis James Smith Denver, Colorado",
+    "bbox": [
+      228.0,
+      897.694,
+      411.66438,
+      902.664
+    ],
+    "name": "Francis James Smith",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Christopher Clayton Traeger Palos Verdes, California",
+    "bbox": [
+      228.0,
+      905.694,
+      411.73326000000003,
+      911.488
+    ],
+    "name": "Christopher Clayton Traeger",
+    "hometown": "Palos Verdes, California"
+  },
+  {
+    "column": 2,
+    "text": "Duane William White Lakewood, Colorado",
+    "bbox": [
+      228.0,
+      913.694,
+      411.66438,
+      918.664
+    ],
+    "name": "Duane William White",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Thomas Wayne Windle Westminster, Colorado",
+    "bbox": [
+      228.28,
+      921.694,
+      411.66438,
+      927.488
+    ],
+    "name": "Thomas Wayne Windle",
+    "hometown": "Westminster, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Wayne Paul Wilson Golden, Colorado",
+    "bbox": [
+      228.0,
+      929.694,
+      411.66438,
+      935.488
+    ],
+    "name": "Wayne Paul Wilson",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Wayne George Zeornes Colorado Springs, Colorado",
+    "bbox": [
+      228.0,
+      937.694,
+      411.66438,
+      943.488
+    ],
+    "name": "Wayne George Zeornes",
+    "hometown": "Colorado Springs, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Geophysical Engineer",
+    "bbox": [
+      264.28,
+      949.61,
+      376.66296,
+      957.26
+    ],
+    "name": "Geophysical Engineer",
+    "hometown": ""
+  },
+  {
+    "column": 2,
+    "text": "John Luther German Lafayette, Colorado",
+    "bbox": [
+      228.28,
+      960.694,
+      411.66438,
+      967.378
+    ],
+    "name": "John Luther German",
+    "hometown": "Lafayette, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Stephen Paul Mitchell Westminster, Colorado",
+    "bbox": [
+      228.0,
+      968.694,
+      411.66438,
+      974.488
+    ],
+    "name": "Stephen Paul Mitchell",
+    "hometown": "Westminster, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Russell Robert Opfer Des Plaines, Illinois",
+    "bbox": [
+      227.72,
+      976.694,
+      411.8346,
+      982.488
+    ],
+    "name": "Russell Robert Opfer",
+    "hometown": "Des Plaines, Illinois"
+  },
+  {
+    "column": 2,
+    "text": "Christopher Clayton Traeger Palos Verdes, California",
+    "bbox": [
+      228.0,
+      984.948,
+      410.73326000000003,
+      990.488
+    ],
+    "name": "Christopher Clayton Traeger",
+    "hometown": "Palos Verdes, California"
+  },
+  {
+    "column": 2,
+    "text": "Mineral Engineering-Chemistry",
+    "bbox": [
+      237.72,
+      1000.028,
+      400.29054,
+      1008.26
+    ],
+    "name": "Mineral Engineering-Chemistry",
+    "hometown": ""
+  },
+  {
+    "column": 2,
+    "text": "Man Glen Culvey Denver, Colorado",
+    "bbox": [
+      228.0,
+      1013.694,
+      410.66438,
+      1020.488
+    ],
+    "name": "Man Glen Culvey",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Kenneth E. Dahlin Denver, Colorado",
+    "bbox": [
+      226.72,
+      1021.694,
+      410.66438,
+      1027.488
+    ],
+    "name": "Kenneth E. Dahlin",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Mitchell Wayne Hamilton Golden, Colorado",
+    "bbox": [
+      227.0,
+      1029.694,
+      410.66438,
+      1035.488
+    ],
+    "name": "Mitchell Wayne Hamilton",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Francis LamportMarkoe White Bear Lake, Minnesota",
+    "bbox": [
+      227.0,
+      1037.694,
+      410.50989,
+      1042.664
+    ],
+    "name": "Francis LamportMarkoe",
+    "hometown": "White Bear Lake, Minnesota"
+  },
+  {
+    "column": 2,
+    "text": "Charles Melvin Rastle Denver, Colorado",
+    "bbox": [
+      227.0,
+      1044.694,
+      410.66438,
+      1050.488
+    ],
+    "name": "Charles Melvin Rastle",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "JosephMark Storey Denver, Colorado",
+    "bbox": [
+      227.28,
+      1052.694,
+      410.66438,
+      1058.488
+    ],
+    "name": "JosephMark Storey",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Michael Joseph Taravello Pueblo, Colorado",
+    "bbox": [
+      227.0,
+      1060.694,
+      410.74552,
+      1066.488
+    ],
+    "name": "Michael Joseph Taravello",
+    "hometown": "Pueblo, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Mineral Engineering-Mathematics",
+    "bbox": [
+      228.72,
+      1074.028,
+      407.2495300000001,
+      1082.26
+    ],
+    "name": "Mineral Engineering-Mathematics",
+    "hometown": ""
+  },
+  {
+    "column": 2,
+    "text": "Steven Eugene Cloy Hugo, Colorado",
+    "bbox": [
+      225.72,
+      1086.694,
+      409.66438,
+      1092.488
+    ],
+    "name": "Steven Eugene Cloy",
+    "hometown": "Hugo, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Edward Traverse Cotter Norwood, Colorado",
+    "bbox": [
+      225.72,
+      1093.694,
+      409.66438,
+      1099.488
+    ],
+    "name": "Edward Traverse Cotter",
+    "hometown": "Norwood, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "William Jerome Evans Estes Park, Colorado",
+    "bbox": [
+      226.0,
+      1101.694,
+      409.66438,
+      1107.488
+    ],
+    "name": "William Jerome Evans",
+    "hometown": "Estes Park, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Stephen John Herrman Lakewood, Colorado",
+    "bbox": [
+      226.0,
+      1109.694,
+      409.66438,
+      1115.488
+    ],
+    "name": "Stephen John Herrman",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Thomas L. Shuford, Jr. Mt. Prospect, Illinois",
+    "bbox": [
+      226.28,
+      1117.694,
+      409.8346,
+      1123.488
+    ],
+    "name": "Thomas L. Shuford, Jr.",
+    "hometown": "Mt. Prospect, Illinois"
+  },
+  {
+    "column": 2,
+    "text": "Thomas U. Vorce Denver, Colorado",
+    "bbox": [
+      226.28,
+      1125.694,
+      409.66438,
+      1131.488
+    ],
+    "name": "Thomas U. Vorce",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "Mineral Engineering-Physics",
+    "bbox": [
+      244.72,
+      1137.028,
+      392.52846000000005,
+      1146.26
+    ],
+    "name": "Mineral Engineering-Physics",
+    "hometown": ""
+  },
+  {
+    "column": 2,
+    "text": "Brian Edward Atkinson Golden, Colorado",
+    "bbox": [
+      226.72,
+      1151.694,
+      410.66438,
+      1158.488
+    ],
+    "name": "Brian Edward Atkinson",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 2,
+    "text": "John Chapman Bortz",
+    "bbox": [
+      227.28,
+      1158.694,
+      279.46726,
+      1164.488
+    ],
+    "name": "John Chapman Bortz",
+    "hometown": ""
+  },
+  {
+    "column": 2,
+    "text": "lokewood, Colorado",
+    "bbox": [
+      359.28,
+      1162.694,
+      410.66438,
+      1167.488
+    ],
+    "name": "",
+    "hometown": "lokewood, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Alan Arthur Burzlaff Brighton, Colorado",
+    "bbox": [
+      428.0,
+      320.69399999999996,
+      610.6643799999999,
+      325.48800000000006
+    ],
+    "name": "Alan Arthur Burzlaff",
+    "hometown": "Brighton, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Kenneth Edward Green Lakewood, Colorado",
+    "bbox": [
+      427.72,
+      328.69399999999996,
+      610.6643799999999,
+      333.48800000000006
+    ],
+    "name": "Kenneth Edward Green",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "WilliamAlan Hudson Arvada, Colorado",
+    "bbox": [
+      428.0,
+      336.69399999999996,
+      611.6643799999999,
+      341.48800000000006
+    ],
+    "name": "WilliamAlan Hudson",
+    "hometown": "Arvada, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Martin Oole Rymes Canon City, Colorado",
+    "bbox": [
+      428.0,
+      344.69399999999996,
+      611.6643799999999,
+      349.48800000000006
+    ],
+    "name": "Martin Oole Rymes",
+    "hometown": "Canon City, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Paul Toit Schnockenberg Englewood, Colorado",
+    "bbox": [
+      427.72,
+      352.69399999999996,
+      611.6643799999999,
+      357.48800000000006
+    ],
+    "name": "Paul Toit Schnockenberg",
+    "hometown": "Englewood, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Hal Bruce Storrs Boulder, Colorado",
+    "bbox": [
+      428.0,
+      360.69399999999996,
+      611.6643799999999,
+      364.664
+    ],
+    "name": "Hal Bruce Storrs",
+    "hometown": "Boulder, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Mineral Engineering",
+    "bbox": [
+      466.72,
+      372.028,
+      571.85672,
+      380.26
+    ],
+    "name": "Mineral Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Mark Jeffrey Brown Boulder, Colorado",
+    "bbox": [
+      428.0,
+      383.69399999999996,
+      611.6643799999999,
+      389.48800000000006
+    ],
+    "name": "Mark Jeffrey Brown",
+    "hometown": "Boulder, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "JayeElmer Decker Durango, Colorado",
+    "bbox": [
+      428.28,
+      390.69399999999996,
+      611.6643799999999,
+      397.48800000000006
+    ],
+    "name": "JayeElmer Decker",
+    "hometown": "Durango, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Douglas Cari Dutton Littleton, Colorado",
+    "bbox": [
+      428.0,
+      398.69399999999996,
+      611.6643799999999,
+      404.48800000000006
+    ],
+    "name": "Douglas Cari Dutton",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Wayne Morse Lawton Laramie, Wyoming",
+    "bbox": [
+      428.0,
+      406.69399999999996,
+      611.83516,
+      412.48800000000006
+    ],
+    "name": "Wayne Morse Lawton",
+    "hometown": "Laramie, Wyoming"
+  },
+  {
+    "column": 3,
+    "text": "GuyMarion Lawyer New Castle, Colorado",
+    "bbox": [
+      428.0,
+      413.69399999999996,
+      611.6643799999999,
+      419.48800000000006
+    ],
+    "name": "GuyMarion Lawyer",
+    "hometown": "New Castle, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Lee Ann Marx Thornton, Colorado",
+    "bbox": [
+      427.72,
+      421.69399999999996,
+      611.6643799999999,
+      426.664
+    ],
+    "name": "Lee Ann Marx",
+    "hometown": "Thornton, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Henry Karl Obermeyer Aspen, Colorado",
+    "bbox": [
+      428.28,
+      429.69399999999996,
+      611.6643799999999,
+      435.48800000000006
+    ],
+    "name": "Henry Karl Obermeyer",
+    "hometown": "Aspen, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Frank Wayne Togge Pueblo, Colorado",
+    "bbox": [
+      428.0,
+      437.69399999999996,
+      611.6643799999999,
+      443.48800000000006
+    ],
+    "name": "Frank Wayne Togge",
+    "hometown": "Pueblo, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Donald Lee Taylor, Jr. Arvada, Colorado",
+    "bbox": [
+      428.0,
+      444.69399999999996,
+      611.6643799999999,
+      450.664
+    ],
+    "name": "Donald Lee Taylor, Jr.",
+    "hometown": "Arvada, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "William Jerry Willeford Bailey, Colorado",
+    "bbox": [
+      427.0,
+      452.69399999999996,
+      610.6643799999999,
+      458.48800000000006
+    ],
+    "name": "William Jerry Willeford",
+    "hometown": "Bailey, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "* The above list also includes December 1976 graduates.",
+    "bbox": [
+      425,
+      463.69399999999996,
+      581.4015,
+      468.664
+    ],
+    "name": "* The above list also includes December 1976",
+    "hometown": "graduates."
+  },
+  {
+    "column": 3,
+    "text": "JUNE 18, 1977",
+    "bbox": [
+      478.28,
+      475.98799999999994,
+      553.6996000000001,
+      482.26800000000003
+    ],
+    "name": "JUNE 18, 1977",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Petroleum Engineering",
+    "bbox": [
+      455.72,
+      488.028,
+      575.364,
+      496.438
+    ],
+    "name": "Petroleum Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Mark Clyde Seitz Whittier, California",
+    "bbox": [
+      427.0,
+      501.69399999999996,
+      611.73326,
+      506.48800000000006
+    ],
+    "name": "Mark Clyde Seitz",
+    "hometown": "Whittier, California"
+  },
+  {
+    "column": 3,
+    "text": "Chemicals and Petroleum-",
+    "bbox": [
+      450.0,
+      518.028,
+      587.5687,
+      524.268
+    ],
+    "name": "Chemicals and Petroleum-",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Sheldon Thomas Edwards Boulder, Colorado",
+    "bbox": [
+      427.72,
+      541.694,
+      611.6643799999999,
+      546.488
+    ],
+    "name": "Sheldon Thomas Edwards",
+    "hometown": "Boulder, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Gerald Albert Madore Denver, Colorado",
+    "bbox": [
+      427.0,
+      548.694,
+      611.6643799999999,
+      552.664
+    ],
+    "name": "Gerald Albert Madore",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Timothy JosephMurphy Pueblo, Colorado",
+    "bbox": [
+      427.28,
+      556.694,
+      611.6643799999999,
+      561.488
+    ],
+    "name": "Timothy JosephMurphy",
+    "hometown": "Pueblo, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Jeffrey Allen Russell Wheat Ridge, Colorado",
+    "bbox": [
+      428.28,
+      564.694,
+      612.47578,
+      569.488
+    ],
+    "name": "Jeffrey Allen Russell",
+    "hometown": "Wheat Ridge, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Phillip David Stevens Lane, Kansas",
+    "bbox": [
+      428.0,
+      572.694,
+      612.729,
+      577.488
+    ],
+    "name": "Phillip David Stevens",
+    "hometown": "Lane, Kansas"
+  },
+  {
+    "column": 3,
+    "text": "Chemistry",
+    "bbox": [
+      494.0,
+      588.61,
+      545.66,
+      596.26
+    ],
+    "name": "Chemistry",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Richard Uoyd Bryson Security. Colorado",
+    "bbox": [
+      427.72,
+      596.694,
+      611.6643799999999,
+      602.488
+    ],
+    "name": "Richard Uoyd Bryson",
+    "hometown": "Security. Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Mineral Engineering Physics",
+    "bbox": [
+      443.72,
+      610.028,
+      593.6839,
+      618.26
+    ],
+    "name": "Mineral Engineering",
+    "hometown": "Physics"
+  },
+  {
+    "column": 3,
+    "text": "Kevin Daniel Norman Eagle, Colorado",
+    "bbox": [
+      427.72,
+      622.694,
+      611.6643799999999,
+      628.488
+    ],
+    "name": "Kevin Daniel Norman",
+    "hometown": "Eagle, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Geological Engineering",
+    "bbox": [
+      454.28,
+      637.61,
+      577.8310400000001,
+      645.26
+    ],
+    "name": "Geological Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Randy Dale Roberts Florence, Colorado",
+    "bbox": [
+      427.0,
+      649.694,
+      611.6643799999999,
+      655.488
+    ],
+    "name": "Randy Dale Roberts",
+    "hometown": "Florence, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "AUGUST 13, 1977",
+    "bbox": [
+      471.28,
+      667.028,
+      565.12296,
+      674.438
+    ],
+    "name": "AUGUST 13,",
+    "hometown": "1977"
+  },
+  {
+    "column": 3,
+    "text": "Mining Engineering",
+    "bbox": [
+      466.72,
+      680.61,
+      569.8310400000001,
+      688.26
+    ],
+    "name": "Mining Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Cesar Alberto Bonezzi Maracaibo, Venezuela",
+    "bbox": [
+      426.0,
+      693.694,
+      610.75125,
+      698.488
+    ],
+    "name": "Cesar Alberto Bonezzi",
+    "hometown": "Maracaibo, Venezuela"
+  },
+  {
+    "column": 3,
+    "text": "Michael JosephGlode Northglenn, Colorado",
+    "bbox": [
+      426.0,
+      700.694,
+      610.6643799999999,
+      706.488
+    ],
+    "name": "Michael JosephGlode",
+    "hometown": "Northglenn, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Marcus Philip Randolph El Paso, Texas",
+    "bbox": [
+      426.0,
+      708.694,
+      610.86777,
+      714.488
+    ],
+    "name": "Marcus Philip Randolph",
+    "hometown": "El Paso, Texas"
+  },
+  {
+    "column": 3,
+    "text": "Francis A. Roberts Arvada, Colorado",
+    "bbox": [
+      427.0,
+      717.694,
+      610.6643799999999,
+      722.488
+    ],
+    "name": "Francis A. Roberts",
+    "hometown": "Arvada, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Robert Z. Smith Johnstown, Pennsylvania",
+    "bbox": [
+      426.72,
+      725.694,
+      610.30956,
+      731.3779999999999
+    ],
+    "name": "Robert Z. Smith",
+    "hometown": "Johnstown, Pennsylvania"
+  },
+  {
+    "column": 3,
+    "text": "Brian Edward Tice Nanaimo, British Columbia",
+    "bbox": [
+      426.72,
+      732.694,
+      610.63528,
+      737.664
+    ],
+    "name": "Brian Edward Tice",
+    "hometown": "Nanaimo, British Columbia"
+  },
+  {
+    "column": 3,
+    "text": "Metallurgical Engineering",
+    "bbox": [
+      449.72,
+      747.61,
+      586.6848,
+      755.26
+    ],
+    "name": "Metallurgical Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Arturo Jose Rivero Acosta Caracas, Venezuela",
+    "bbox": [
+      426.0,
+      760.694,
+      610.75125,
+      766.488
+    ],
+    "name": "Arturo Jose Rivero Acosta",
+    "hometown": "Caracas, Venezuela"
+  },
+  {
+    "column": 3,
+    "text": "Bruce Kevin Clements Denver, Colorado",
+    "bbox": [
+      425.72,
+      768.694,
+      610.6643799999999,
+      774.488
+    ],
+    "name": "Bruce Kevin Clements",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Steven DeWeese Grand Junction, Colorado",
+    "bbox": [
+      425.72,
+      777.694,
+      610.6643799999999,
+      782.488
+    ],
+    "name": "Steven DeWeese",
+    "hometown": "Grand Junction, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "David John Kelly Silverdale, Washington",
+    "bbox": [
+      426.0,
+      784.694,
+      610.4592,
+      791.3779999999999
+    ],
+    "name": "David John Kelly",
+    "hometown": "Silverdale, Washington"
+  },
+  {
+    "column": 3,
+    "text": "Lawrence Douglas Kulp . Brush, Colorado",
+    "bbox": [
+      426.0,
+      792.948,
+      610.6643799999999,
+      798.488
+    ],
+    "name": "Lawrence Douglas Kulp",
+    "hometown": ". Brush, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Rae Anne Larson Billings, Montana",
+    "bbox": [
+      425.72,
+      801.694,
+      610.5172299999999,
+      806.488
+    ],
+    "name": "Rae Anne Larson",
+    "hometown": "Billings, Montana"
+  },
+  {
+    "column": 3,
+    "text": "Petroleum Engineering",
+    "bbox": [
+      455.72,
+      815.028,
+      576.8310400000001,
+      823.26
+    ],
+    "name": "Petroleum Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Patrick Arthur Cox Southboro, Massachusetts",
+    "bbox": [
+      425.72,
+      827.694,
+      610.3463999999999,
+      832.488
+    ],
+    "name": "Patrick Arthur Cox",
+    "hometown": "Southboro, Massachusetts"
+  },
+  {
+    "column": 3,
+    "text": "Andrew Florian Drenick Colorado Springs, Colorado",
+    "bbox": [
+      426.0,
+      835.694,
+      610.6643799999999,
+      840.488
+    ],
+    "name": "Andrew Florian Drenick",
+    "hometown": "Colorado Springs, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Professional-Mineral Engineering",
+    "bbox": [
+      428.72,
+      851.028,
+      600.85672,
+      859.26
+    ],
+    "name": "Professional-Mineral",
+    "hometown": "Engineering"
+  },
+  {
+    "column": 3,
+    "text": "Sheldon Thomas Edwards Boulder, Colorado",
+    "bbox": [
+      425.72,
+      862.694,
+      610.6643799999999,
+      867.488
+    ],
+    "name": "Sheldon Thomas Edwards",
+    "hometown": "Boulder, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Masters Degrees",
+    "bbox": [
+      447.28,
+      879.914,
+      589.6438199999999,
+      892.748
+    ],
+    "name": "Masters Degrees",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "M.S. Mining Engineering",
+    "bbox": [
+      456.28,
+      899.61,
+      584.6848,
+      907.26
+    ],
+    "name": "M.S. Mining Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Jahmale Carney Johnson Monrovia, Liberia",
+    "bbox": [
+      427.28,
+      910.694,
+      610.62554,
+      916.488
+    ],
+    "name": "Jahmale Carney Johnson",
+    "hometown": "Monrovia, Liberia"
+  },
+  {
+    "column": 3,
+    "text": "Glenn John Stuart Loing Johannesburg, South Africa",
+    "bbox": [
+      427.0,
+      918.694,
+      611.77052,
+      925.3779999999999
+    ],
+    "name": "Glenn John Stuart Loing",
+    "hometown": "Johannesburg, South Africa"
+  },
+  {
+    "column": 3,
+    "text": "M.E. Metallurgical Engineeer",
+    "bbox": [
+      441.72,
+      934.028,
+      595.63562,
+      942.26
+    ],
+    "name": "M.E. Metallurgical",
+    "hometown": "Engineeer"
+  },
+  {
+    "column": 3,
+    "text": "Carlas M. Mirabal Potosi, Bolivia",
+    "bbox": [
+      426.0,
+      945.694,
+      610.83045,
+      950.488
+    ],
+    "name": "Carlas M. Mirabal",
+    "hometown": "Potosi, Bolivia"
+  },
+  {
+    "column": 3,
+    "text": "M.S. Metallurgy",
+    "bbox": [
+      477.72,
+      959.028,
+      559.95492,
+      967.26
+    ],
+    "name": "M.S. Metallurgy",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "ThomasAllan Whipple Lakewood, Colorado",
+    "bbox": [
+      427.28,
+      969.694,
+      610.6643799999999,
+      975.378
+    ],
+    "name": "ThomasAllan Whipple",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "M.S. Metallurgical Engineering",
+    "bbox": [
+      434.72,
+      983.028,
+      596.8310400000001,
+      992.26
+    ],
+    "name": "M.S. Metallurgical Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "Julio D. Bonelli A. Lima, Peru",
+    "bbox": [
+      427.28,
+      994.694,
+      610.46272,
+      999.488
+    ],
+    "name": "Julio D. Bonelli A.",
+    "hometown": "Lima, Peru"
+  },
+  {
+    "column": 3,
+    "text": "John Leston Kirk, Jr. Whittier, California",
+    "bbox": [
+      427.28,
+      1002.694,
+      610.57786,
+      1007.488
+    ],
+    "name": "John Leston Kirk, Jr.",
+    "hometown": "Whittier, California"
+  },
+  {
+    "column": 3,
+    "text": "frid J. Olin Littleton, Colorado",
+    "bbox": [
+      426.0,
+      1010.694,
+      610.47578,
+      1015.488
+    ],
+    "name": "frid J. Olin",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Hector GustavoRomos Bamoia Caracas, Venezuela",
+    "bbox": [
+      427.0,
+      1018.694,
+      610.75125,
+      1023.488
+    ],
+    "name": "Hector GustavoRomos Bamoia",
+    "hometown": "Caracas, Venezuela"
+  },
+  {
+    "column": 3,
+    "text": "John Randolph Roper Westminster, Colorado",
+    "bbox": [
+      426.28,
+      1026.694,
+      610.6643799999999,
+      1032.378
+    ],
+    "name": "John Randolph Roper",
+    "hometown": "Westminster, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "M.E. Geological Engineer",
+    "bbox": [
+      453.28,
+      1040.61,
+      585.66232,
+      1048.438
+    ],
+    "name": "M.E. Geological",
+    "hometown": "Engineer"
+  },
+  {
+    "column": 3,
+    "text": "Blery Holbrook Wilson Denver, Colorado",
+    "bbox": [
+      426.0,
+      1051.694,
+      610.6643799999999,
+      1056.664
+    ],
+    "name": "Blery Holbrook Wilson",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "M.S. Geology",
+    "bbox": [
+      481.72,
+      1063.028,
+      551.4466399999999,
+      1071.26
+    ],
+    "name": "M.S. Geology",
+    "hometown": ""
+  },
+  {
+    "column": 3,
+    "text": "James Patrick Andarsan Kankakee, Illinois",
+    "bbox": [
+      425.28,
+      1074.694,
+      609.8346,
+      1079.488
+    ],
+    "name": "James Patrick Andarsan",
+    "hometown": "Kankakee, Illinois"
+  },
+  {
+    "column": 3,
+    "text": "Lee Travis Billingsley Denver, Colorado",
+    "bbox": [
+      425.0,
+      1081.694,
+      610.47578,
+      1087.488
+    ],
+    "name": "Lee Travis Billingsley",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Robert WelseyButler Santo Barbara, California",
+    "bbox": [
+      425,
+      1089.988,
+      609.57786,
+      1095.488
+    ],
+    "name": "Robert WelseyButler",
+    "hometown": "Santo Barbara, California"
+  },
+  {
+    "column": 3,
+    "text": "AubreyLynn Cardwell Tulsa, Oklahoma",
+    "bbox": [
+      425.28,
+      1097.694,
+      609.47109,
+      1103.488
+    ],
+    "name": "AubreyLynn Cardwell",
+    "hometown": "Tulsa, Oklahoma"
+  },
+  {
+    "column": 3,
+    "text": "Robert G. Cuffnay Golden, Colorado",
+    "bbox": [
+      425,
+      1105.694,
+      609.6643799999999,
+      1111.664
+    ],
+    "name": "Robert G. Cuffnay",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "tallReynold DHcmeyer Goldon, Colorado",
+    "bbox": [
+      425.0,
+      1113.694,
+      609.7455199999999,
+      1119.378
+    ],
+    "name": "tallReynold DHcmeyer",
+    "hometown": "Goldon, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Mohamad A. 0-Hindi Khartoum, Sudan",
+    "bbox": [
+      425.0,
+      1121.694,
+      609.55083,
+      1126.488
+    ],
+    "name": "Mohamad A. 0-Hindi",
+    "hometown": "Khartoum, Sudan"
+  },
+  {
+    "column": 3,
+    "text": "Richard ArthurBrickson Loveland, Colorado",
+    "bbox": [
+      425,
+      1129.694,
+      609.47578,
+      1134.488
+    ],
+    "name": "Richard ArthurBrickson",
+    "hometown": "Loveland, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Stephan Michoel Johnson Lakewood, Colorado",
+    "bbox": [
+      425.0,
+      1137.694,
+      609.59749,
+      1143.378
+    ],
+    "name": "Stephan Michoel Johnson",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Steven Gerald Kirkwood Denver, Colorado",
+    "bbox": [
+      425,
+      1145.694,
+      608.6643799999999,
+      1150.488
+    ],
+    "name": "Steven Gerald Kirkwood",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 3,
+    "text": "Bonhi M. Lawman Greonlown, NewYork",
+    "bbox": [
+      425,
+      1153.694,
+      609.822,
+      1158.488
+    ],
+    "name": "Bonhi M. Lawman",
+    "hometown": "Greonlown, NewYork"
+  },
+  {
+    "column": 3,
+    "text": "Claudio Dario MamKHo Mendoza, Argentina",
+    "bbox": [
+      425.0,
+      1160.694,
+      610.0183999999999,
+      1166.488
+    ],
+    "name": "Claudio Dario MamKHo",
+    "hometown": "Mendoza, Argentina"
+  },
+  {
+    "column": 4,
+    "text": "Raymond Mod Moslyn Goldon, Colorado",
+    "bbox": [
+      627.0,
+      40.69399999999996,
+      810.6643799999999,
+      47.48799999999983
+    ],
+    "name": "Raymond Mod Moslyn",
+    "hometown": "Goldon, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "Robert Craig Myers Lrtewood, Colorado",
+    "bbox": [
+      626.72,
+      48.69399999999996,
+      810.6643799999999,
+      54.66399999999999
+    ],
+    "name": "Robert Craig Myers",
+    "hometown": "Lrtewood, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "Moik JonathanPinal Brooksville, Maine",
+    "bbox": [
+      627.0,
+      56.69399999999996,
+      810.67697,
+      61.66399999999999
+    ],
+    "name": "Moik JonathanPinal",
+    "hometown": "Brooksville, Maine"
+  },
+  {
+    "column": 4,
+    "text": "William David Zogg Golden, Colorado",
+    "bbox": [
+      627.0,
+      63.69399999999996,
+      810.6643799999999,
+      70.48799999999983
+    ],
+    "name": "William David Zogg",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "M.S. Geological Engineering",
+    "bbox": [
+      643.72,
+      79.61000000000013,
+      793.8310400000001,
+      88.15000000000009
+    ],
+    "name": "M.S. Geological Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Mchael Wedell West Colorado Springs, Colorado",
+    "bbox": [
+      626.0,
+      90.69399999999996,
+      810.6643799999999,
+      96.66399999999999
+    ],
+    "name": "Mchael Wedell West",
+    "hometown": "Colorado Springs, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "M.E. Petroleum Engineer",
+    "bbox": [
+      652.28,
+      105.02800000000002,
+      783.50274,
+      112.43799999999987
+    ],
+    "name": "M.E. Petroleum",
+    "hometown": "Engineer"
+  },
+  {
+    "column": 4,
+    "text": "Jumobi Olaribigbe Bashua logos, Nigeria, West Africa",
+    "bbox": [
+      626.28,
+      116.69399999999996,
+      810.9270399999999,
+      122.48799999999983
+    ],
+    "name": "Jumobi Olaribigbe Bashua",
+    "hometown": "logos, Nigeria, West Africa"
+  },
+  {
+    "column": 4,
+    "text": "Wilson Moreno Armas Quito, Ecuador",
+    "bbox": [
+      626.0,
+      124.69399999999996,
+      810.41448,
+      129.664
+    ],
+    "name": "Wilson Moreno Armas",
+    "hometown": "Quito, Ecuador"
+  },
+  {
+    "column": 4,
+    "text": "Mahmoud Ahmed Shogroni Yefren, Libyan Arab Republic",
+    "bbox": [
+      626.0,
+      132.69399999999996,
+      810.5667,
+      138.48799999999983
+    ],
+    "name": "Mahmoud Ahmed Shogroni",
+    "hometown": "Yefren, Libyan Arab Republic"
+  },
+  {
+    "column": 4,
+    "text": "James Alan Townsend Littleton, Colorado",
+    "bbox": [
+      627.28,
+      140.69399999999996,
+      810.6643799999999,
+      145.664
+    ],
+    "name": "James Alan Townsend",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "M.S. Petroleum Engineering",
+    "bbox": [
+      645.28,
+      155.02800000000002,
+      791.8310400000001,
+      163.26
+    ],
+    "name": "M.S. Petroleum Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Roland E. Blouer Golden, Colorado",
+    "bbox": [
+      625.72,
+      166.69399999999996,
+      810.6643799999999,
+      172.664
+    ],
+    "name": "Roland E. Blouer",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "Dave Olvir Cox Denver, Colorado",
+    "bbox": [
+      627.0,
+      173.69399999999996,
+      810.6643799999999,
+      180.664
+    ],
+    "name": "Dave Olvir Cox",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "M.E. Chemical and",
+    "bbox": [
+      670.28,
+      188.02800000000002,
+      767.21812,
+      195.37799999999993
+    ],
+    "name": "M.E. Chemical",
+    "hometown": "and"
+  },
+  {
+    "column": 4,
+    "text": "Jose Eduardo Torres Volledupor, Colombia",
+    "bbox": [
+      626.28,
+      211.69399999999996,
+      809.7906800000001,
+      217.664
+    ],
+    "name": "Jose Eduardo Torres",
+    "hometown": "Volledupor, Colombia"
+  },
+  {
+    "column": 4,
+    "text": "M.S. Chemical and",
+    "bbox": [
+      669.28,
+      225.02800000000002,
+      764.21812,
+      232.37799999999993
+    ],
+    "name": "M.S. Chemical",
+    "hometown": "and"
+  },
+  {
+    "column": 4,
+    "text": "Steven AndrewBarker Golden, Colorado",
+    "bbox": [
+      625.72,
+      249.69399999999996,
+      810.6643799999999,
+      255.664
+    ],
+    "name": "Steven AndrewBarker",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "Oliver Kwein-Ren Chong Kaohsiung, Taiwan",
+    "bbox": [
+      626.0,
+      257.69399999999996,
+      809.97514,
+      264.48800000000006
+    ],
+    "name": "Oliver Kwein-Ren Chong",
+    "hometown": "Kaohsiung, Taiwan"
+  },
+  {
+    "column": 4,
+    "text": "Roberta Rose Fleckenstein Denver, Colorodo",
+    "bbox": [
+      625.72,
+      265.69399999999996,
+      810.6643799999999,
+      271.664
+    ],
+    "name": "Roberta Rose Fleckenstein",
+    "hometown": "Denver, Colorodo"
+  },
+  {
+    "column": 4,
+    "text": "Dennis Donald Gertenbach Mesa, Arizona",
+    "bbox": [
+      626.0,
+      273.69399999999996,
+      810.7806,
+      279.664
+    ],
+    "name": "Dennis Donald Gertenbach",
+    "hometown": "Mesa, Arizona"
+  },
+  {
+    "column": 4,
+    "text": "John Riley McConnell Strasburg, Colorodo",
+    "bbox": [
+      626.28,
+      281.69399999999996,
+      810.6643799999999,
+      288.48800000000006
+    ],
+    "name": "John Riley McConnell",
+    "hometown": "Strasburg, Colorodo"
+  },
+  {
+    "column": 4,
+    "text": "Charles London Murphy Griffin, Georgia",
+    "bbox": [
+      626.0,
+      289.9480000000001,
+      809.95881,
+      295.664
+    ],
+    "name": "Charles London Murphy",
+    "hometown": "Griffin, Georgia"
+  },
+  {
+    "column": 4,
+    "text": "Rnjendra 0. Sheth Vejalpur, India",
+    "bbox": [
+      626.0,
+      297.69399999999996,
+      809.81832,
+      303.48800000000006
+    ],
+    "name": "Rnjendra 0. Sheth",
+    "hometown": "Vejalpur, India"
+  },
+  {
+    "column": 4,
+    "text": "Abraham J. Suniago Goite Puerto La Cruz, Venezuela",
+    "bbox": [
+      626.0,
+      305.69399999999996,
+      810.75125,
+      311.48800000000006
+    ],
+    "name": "Abraham J. Suniago Goite",
+    "hometown": "Puerto La Cruz, Venezuela"
+  },
+  {
+    "column": 4,
+    "text": "Vasantkumar Pragji Thakkar Adipur (Kutch), India",
+    "bbox": [
+      626.0,
+      313.69399999999996,
+      810.6638399999999,
+      319.48800000000006
+    ],
+    "name": "Vasantkumar Pragji Thakkar",
+    "hometown": "Adipur (Kutch), India"
+  },
+  {
+    "column": 4,
+    "text": "M.E. Geophysical Engineer",
+    "bbox": [
+      651.28,
+      326.34799999999996,
+      791.50274,
+      334.26
+    ],
+    "name": "M.E. Geophysical",
+    "hometown": "Engineer"
+  },
+  {
+    "column": 4,
+    "text": "Doborah Rue Miles Portland, Oregon",
+    "bbox": [
+      627.0,
+      338.9480000000001,
+      811.9958,
+      343.664
+    ],
+    "name": "Doborah Rue Miles",
+    "hometown": "Portland, Oregon"
+  },
+  {
+    "column": 4,
+    "text": "M.S. Geophysics",
+    "bbox": [
+      676.28,
+      351.61,
+      762.24408,
+      359.26
+    ],
+    "name": "M.S. Geophysics",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "John Fredric Arestad Kalispell, Montano",
+    "bbox": [
+      626.28,
+      361.69399999999996,
+      810.5172299999999,
+      367.664
+    ],
+    "name": "John Fredric Arestad",
+    "hometown": "Kalispell, Montano"
+  },
+  {
+    "column": 4,
+    "text": "H. George Beggs, Jr. Weston, Connecticut",
+    "bbox": [
+      626.0,
+      369.69399999999996,
+      809.5120000000001,
+      376.48800000000006
+    ],
+    "name": "H. George Beggs, Jr.",
+    "hometown": "Weston, Connecticut"
+  },
+  {
+    "column": 4,
+    "text": "Sid'Ali Nadir Omari Algiers, Algerio",
+    "bbox": [
+      625.72,
+      377.9480000000001,
+      810.9872799999999,
+      383.664
+    ],
+    "name": "Sid'Ali Nadir Omari",
+    "hometown": "Algiers, Algerio"
+  },
+  {
+    "column": 4,
+    "text": "John Thomas Williams 111 Lokewood, Colorodo",
+    "bbox": [
+      626.28,
+      385.69399999999996,
+      810.6643799999999,
+      391.664
+    ],
+    "name": "John Thomas Williams 111",
+    "hometown": "Lokewood, Colorodo"
+  },
+  {
+    "column": 4,
+    "text": "M.S. Geophysical Engineering",
+    "bbox": [
+      643.28,
+      401.61,
+      799.8310400000001,
+      409.26
+    ],
+    "name": "M.S. Geophysical Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Nancy R. Money Golden, Colorado",
+    "bbox": [
+      625.28,
+      413.69399999999996,
+      809.6643799999999,
+      419.48800000000006
+    ],
+    "name": "Nancy R. Money",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "William R. Olson Los Angeles, California",
+    "bbox": [
+      625.0,
+      421.69399999999996,
+      809.73326,
+      426.664
+    ],
+    "name": "William R. Olson",
+    "hometown": "Los Angeles, California"
+  },
+  {
+    "column": 4,
+    "text": "Nelson Rodriquez Ortiz Caracas, Venezuela",
+    "bbox": [
+      625.0,
+      429.69399999999996,
+      810.75125,
+      434.664
+    ],
+    "name": "Nelson Rodriquez Ortiz",
+    "hometown": "Caracas, Venezuela"
+  },
+  {
+    "column": 4,
+    "text": "Scott L. Stockton Colorado Springs, Colorado",
+    "bbox": [
+      624.72,
+      437.69399999999996,
+      809.6643799999999,
+      442.664
+    ],
+    "name": "Scott L. Stockton",
+    "hometown": "Colorado Springs, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "Terence Kent Young Arvada, Colorado",
+    "bbox": [
+      625.28,
+      445.69399999999996,
+      809.6643799999999,
+      451.48800000000006
+    ],
+    "name": "Terence Kent Young",
+    "hometown": "Arvada, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "M.S. Chemistry",
+    "bbox": [
+      677.28,
+      458.98799999999994,
+      756.515,
+      467.26
+    ],
+    "name": "M.S. Chemistry",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Garry H. Bryan Santa Cruz, California",
+    "bbox": [
+      626.0,
+      470.69399999999996,
+      810.73326,
+      475.48800000000006
+    ],
+    "name": "Garry H. Bryan",
+    "hometown": "Santa Cruz, California"
+  },
+  {
+    "column": 4,
+    "text": "Shahrokh Ghaffari Neyzari Tehran, Iran",
+    "bbox": [
+      625.72,
+      478.69399999999996,
+      811.57988,
+      483.48800000000006
+    ],
+    "name": "Shahrokh Ghaffari Neyzari",
+    "hometown": "Tehran, Iran"
+  },
+  {
+    "column": 4,
+    "text": "Erik Bentley Nelson Golden, Colorado",
+    "bbox": [
+      625.72,
+      486.69399999999996,
+      810.6643799999999,
+      491.48800000000006
+    ],
+    "name": "Erik Bentley Nelson",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "M.S. Geochemistry",
+    "bbox": [
+      669.28,
+      500.34799999999996,
+      767.5356800000001,
+      507.438
+    ],
+    "name": "M.S. Geochemistry",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Joan Kay Jennings San Luis Obispo, Colifomio",
+    "bbox": [
+      625.28,
+      511.69399999999996,
+      810.83524,
+      518.488
+    ],
+    "name": "Joan Kay Jennings",
+    "hometown": "San Luis Obispo, Colifomio"
+  },
+  {
+    "column": 4,
+    "text": "Armando Jose Ramirez Rojas Corioco, Venezuela",
+    "bbox": [
+      625.0,
+      520.694,
+      810.75125,
+      525.664
+    ],
+    "name": "Armando Jose Ramirez Rojas",
+    "hometown": "Corioco, Venezuela"
+  },
+  {
+    "column": 4,
+    "text": "Charles Davis Ringrose Evergreen, Colorodo",
+    "bbox": [
+      625.0,
+      528.694,
+      810.6643799999999,
+      534.488
+    ],
+    "name": "Charles Davis Ringrose",
+    "hometown": "Evergreen, Colorodo"
+  },
+  {
+    "column": 4,
+    "text": "Shea Clark Smith Saint Louis, Missouri",
+    "bbox": [
+      624.72,
+      536.694,
+      810.61988,
+      541.664
+    ],
+    "name": "Shea Clark Smith",
+    "hometown": "Saint Louis, Missouri"
+  },
+  {
+    "column": 4,
+    "text": "foul Michoel Tauten Kennett Square, Pennsylvania",
+    "bbox": [
+      626.0,
+      544.694,
+      810.2327399999999,
+      549.664
+    ],
+    "name": "foul Michoel Tauten",
+    "hometown": "Kennett Square, Pennsylvania"
+  },
+  {
+    "column": 4,
+    "text": "M.S. Mathematics",
+    "bbox": [
+      671.28,
+      559.028,
+      764.56596,
+      566.3779999999999
+    ],
+    "name": "M.S. Mathematics",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Ewa Katarzyna Raines Golden, Colorado",
+    "bbox": [
+      625.72,
+      570.694,
+      811.6643799999999,
+      576.488
+    ],
+    "name": "Ewa Katarzyna Raines",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "M.S. Physics",
+    "bbox": [
+      687.28,
+      585.9879999999999,
+      750.6839,
+      594.26
+    ],
+    "name": "M.S. Physics",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Ahmed Abdussalam Rahil \u201d\u2022 TH Tripoli, Libya",
+    "bbox": [
+      626.0,
+      598.694,
+      810.5065000000001,
+      603.488
+    ],
+    "name": "Ahmed Abdussalam Rahil",
+    "hometown": "\u201d\u2022 TH Tripoli, Libya"
+  },
+  {
+    "column": 4,
+    "text": "John Roy Schuyler (SofftehTColorado",
+    "bbox": [
+      626.28,
+      604.9879999999999,
+      809.8576,
+      610.488
+    ],
+    "name": "John Roy Schuyler",
+    "hometown": "(SofftehTColorado"
+  },
+  {
+    "column": 4,
+    "text": "M.S. Mineral Economics",
+    "bbox": [
+      667.28,
+      618.028,
+      793.3059,
+      624.3779999999999
+    ],
+    "name": "M.S. Mineral",
+    "hometown": "Economics"
+  },
+  {
+    "column": 4,
+    "text": "Arthur Charles Anderson Tulsa, Oklahoma",
+    "bbox": [
+      626.0,
+      630.694,
+      811.47109,
+      635.488
+    ],
+    "name": "Arthur Charles Anderson",
+    "hometown": "Tulsa, Oklahoma"
+  },
+  {
+    "column": 4,
+    "text": "Rafael Ernesto Borges Olivieri Caracas, Venezuela",
+    "bbox": [
+      625.72,
+      637.694,
+      810.75125,
+      643.488
+    ],
+    "name": "Rafael Ernesto Borges Olivieri",
+    "hometown": "Caracas, Venezuela"
+  },
+  {
+    "column": 4,
+    "text": "Ronald Wayne Gattany Denver, Colorodo",
+    "bbox": [
+      625.72,
+      645.694,
+      810.6643799999999,
+      651.3779999999999
+    ],
+    "name": "Ronald Wayne Gattany",
+    "hometown": "Denver, Colorodo"
+  },
+  {
+    "column": 4,
+    "text": "Meade S. Curtin North Hollywood, California",
+    "bbox": [
+      626.0,
+      653.694,
+      810.73326,
+      660.3779999999999
+    ],
+    "name": "Meade S. Curtin",
+    "hometown": "North Hollywood, California"
+  },
+  {
+    "column": 4,
+    "text": "JeffreyScott Daniels Kansas Gty, Missouri",
+    "bbox": [
+      626.28,
+      661.694,
+      810.61988,
+      667.488
+    ],
+    "name": "JeffreyScott Daniels",
+    "hometown": "Kansas Gty, Missouri"
+  },
+  {
+    "column": 4,
+    "text": "Robert Lewis Davidoff Manhassett, Long Island, New York",
+    "bbox": [
+      625.72,
+      669.694,
+      811.822,
+      675.664
+    ],
+    "name": "Robert Lewis Davidoff",
+    "hometown": "Manhassett, Long Island, New York"
+  },
+  {
+    "column": 4,
+    "text": "Armando DuarteRamirez Bogota, Colombia",
+    "bbox": [
+      626.0,
+      677.694,
+      811.63528,
+      683.488
+    ],
+    "name": "Armando DuarteRamirez",
+    "hometown": "Bogota, Colombia"
+  },
+  {
+    "column": 4,
+    "text": "Douglas John Eggert Denver, Colorado",
+    "bbox": [
+      626.0,
+      685.694,
+      810.6643799999999,
+      691.488
+    ],
+    "name": "Douglas John Eggert",
+    "hometown": "Denver, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "WilliamDurand Eppler New York City, New York",
+    "bbox": [
+      626.0,
+      693.694,
+      810.9790399999999,
+      699.488
+    ],
+    "name": "WilliamDurand Eppler",
+    "hometown": "New York City, New York"
+  },
+  {
+    "column": 4,
+    "text": "Jose Antonio AvideoFumaguera Castellon La Guaira, Venezuela",
+    "bbox": [
+      626.28,
+      701.694,
+      810.75125,
+      707.488
+    ],
+    "name": "Jose Antonio AvideoFumaguera Castellon",
+    "hometown": "La Guaira, Venezuela"
+  },
+  {
+    "column": 4,
+    "text": "David Alan Gensch Wichita, Kansas",
+    "bbox": [
+      626.0,
+      709.694,
+      810.62845,
+      715.664
+    ],
+    "name": "David Alan Gensch",
+    "hometown": "Wichita, Kansas"
+  },
+  {
+    "column": 4,
+    "text": "Judith Kay Grange Canon City, Colorado",
+    "bbox": [
+      626.28,
+      717.694,
+      810.6643799999999,
+      724.3779999999999
+    ],
+    "name": "Judith Kay Grange",
+    "hometown": "Canon City, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "George Joe Hartman Arvada, Colorado",
+    "bbox": [
+      626.0,
+      725.694,
+      810.6643799999999,
+      731.488
+    ],
+    "name": "George Joe Hartman",
+    "hometown": "Arvada, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "Clifford Clarence Parsons, Jr. Denver, Colorodo",
+    "bbox": [
+      626.0,
+      733.694,
+      810.6643799999999,
+      739.488
+    ],
+    "name": "Clifford Clarence Parsons, Jr.",
+    "hometown": "Denver, Colorodo"
+  },
+  {
+    "column": 4,
+    "text": "DanP. Sprouse Golden, Colorodo",
+    "bbox": [
+      626.0,
+      741.694,
+      810.6643799999999,
+      747.488
+    ],
+    "name": "DanP. Sprouse",
+    "hometown": "Golden, Colorodo"
+  },
+  {
+    "column": 4,
+    "text": "Pdmela Raye Tittes Golden, Colorado",
+    "bbox": [
+      625.72,
+      749.694,
+      810.6643799999999,
+      755.488
+    ],
+    "name": "Pdmela Raye Tittes",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "Muhammad Ali Zainy Boghdad, Iran",
+    "bbox": [
+      626.0,
+      757.694,
+      810.57988,
+      763.488
+    ],
+    "name": "Muhammad Ali Zainy",
+    "hometown": "Boghdad, Iran"
+  },
+  {
+    "column": 4,
+    "text": "Doctors of Philosophy",
+    "bbox": [
+      624.72,
+      774.944,
+      810.03497,
+      788.6379999999999
+    ],
+    "name": "Doctors of Philosophy",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Metallurgy",
+    "bbox": [
+      688.72,
+      796.61,
+      745.0786400000001,
+      804.26
+    ],
+    "name": "Metallurgy",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Jerry Le\u00dfoy Blattner Denver, Colorodo",
+    "bbox": [
+      626.28,
+      808.694,
+      811.6643799999999,
+      814.488
+    ],
+    "name": "Jerry Le\u00dfoy Blattner",
+    "hometown": "Denver, Colorodo"
+  },
+  {
+    "column": 4,
+    "text": "WilliamScott Moser Huntington, West Virginia",
+    "bbox": [
+      626.0,
+      816.694,
+      810.68368,
+      822.488
+    ],
+    "name": "WilliamScott Moser",
+    "hometown": "Huntington, West Virginia"
+  },
+  {
+    "column": 4,
+    "text": "ft-uce Schiller Scarsdale, New York",
+    "bbox": [
+      626.0,
+      824.694,
+      811.822,
+      830.488
+    ],
+    "name": "ft-uce Schiller",
+    "hometown": "Scarsdale, New York"
+  },
+  {
+    "column": 4,
+    "text": "Geology",
+    "bbox": [
+      694.28,
+      836.61,
+      737.5901200000001,
+      844.26
+    ],
+    "name": "Geology",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Dario Barrero-Lazono Bogota, Colombia",
+    "bbox": [
+      625.0,
+      848.694,
+      809.7906800000001,
+      853.488
+    ],
+    "name": "Dario Barrero-Lazono",
+    "hometown": "Bogota, Colombia"
+  },
+  {
+    "column": 4,
+    "text": "James C. Fisher Walnut Creek, California",
+    "bbox": [
+      625.28,
+      855.694,
+      809.73326,
+      861.488
+    ],
+    "name": "James C. Fisher",
+    "hometown": "Walnut Creek, California"
+  },
+  {
+    "column": 4,
+    "text": "Oguzlrtem Istanbul, Turkey",
+    "bbox": [
+      624.72,
+      863.948,
+      810.2407999999999,
+      870.488
+    ],
+    "name": "Oguzlrtem",
+    "hometown": "Istanbul, Turkey"
+  },
+  {
+    "column": 4,
+    "text": "Abdul Raof Ismail Jado Taif, Saudi Arabia",
+    "bbox": [
+      625.0,
+      871.694,
+      809.6637999999999,
+      877.664
+    ],
+    "name": "Abdul Raof Ismail Jado",
+    "hometown": "Taif, Saudi Arabia"
+  },
+  {
+    "column": 4,
+    "text": "l*a Nwangwu Ajalli, Nigeria",
+    "bbox": [
+      625.0,
+      879.694,
+      810.95186,
+      885.488
+    ],
+    "name": "l*a Nwangwu",
+    "hometown": "Ajalli, Nigeria"
+  },
+  {
+    "column": 4,
+    "text": "Geological Engineering",
+    "bbox": [
+      652.28,
+      896.61,
+      775.6848,
+      904.26
+    ],
+    "name": "Geological Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "John Rodda Ege Littleton, Colorado",
+    "bbox": [
+      625.28,
+      909.694,
+      809.6643799999999,
+      915.488
+    ],
+    "name": "John Rodda Ege",
+    "hometown": "Littleton, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "David Huntley Golden, Colorado",
+    "bbox": [
+      625.0,
+      916.694,
+      810.6643799999999,
+      923.488
+    ],
+    "name": "David Huntley",
+    "hometown": "Golden, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "Petroleum Engineering",
+    "bbox": [
+      657.72,
+      932.028,
+      778.8310400000001,
+      941.26
+    ],
+    "name": "Petroleum Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Roberto Aguilera Guevara Villavicencio, Colombia",
+    "bbox": [
+      625.72,
+      945.694,
+      810.63528,
+      950.664
+    ],
+    "name": "Roberto Aguilera Guevara",
+    "hometown": "Villavicencio, Colombia"
+  },
+  {
+    "column": 4,
+    "text": "Hazim Hasson Al-Attar Baghdad, Iraq",
+    "bbox": [
+      626.0,
+      952.694,
+      810.85124,
+      959.488
+    ],
+    "name": "Hazim Hasson Al-Attar",
+    "hometown": "Baghdad, Iraq"
+  },
+  {
+    "column": 4,
+    "text": "Ali Mohsen Al-Mashat Baghdad, Iraq",
+    "bbox": [
+      626.0,
+      960.694,
+      810.85124,
+      967.488
+    ],
+    "name": "Ali Mohsen Al-Mashat",
+    "hometown": "Baghdad, Iraq"
+  },
+  {
+    "column": 4,
+    "text": "Jack A. Krug Golden, Colorodo",
+    "bbox": [
+      626.28,
+      968.694,
+      810.6643799999999,
+      974.488
+    ],
+    "name": "Jack A. Krug",
+    "hometown": "Golden, Colorodo"
+  },
+  {
+    "column": 4,
+    "text": "Chemical and Petroleum-",
+    "bbox": [
+      654.0,
+      988.028,
+      788.6934,
+      994.268
+    ],
+    "name": "Chemical and Petroleum-",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Fahad Abdulrahmon Somait Dawadami, Saudi Arabia",
+    "bbox": [
+      626.0,
+      1013.694,
+      810.6637999999999,
+      1019.664
+    ],
+    "name": "Fahad Abdulrahmon Somait",
+    "hometown": "Dawadami, Saudi Arabia"
+  },
+  {
+    "column": 4,
+    "text": "Geophysics",
+    "bbox": [
+      690.28,
+      1028.61,
+      750.0948,
+      1036.26
+    ],
+    "name": "Geophysics",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Robert Alan Crewdson Rochester, New York",
+    "bbox": [
+      624.72,
+      1041.694,
+      809.822,
+      1047.488
+    ],
+    "name": "Robert Alan Crewdson",
+    "hometown": "Rochester, New York"
+  },
+  {
+    "column": 4,
+    "text": "Chang Yon Lee Malacca,Malaysia",
+    "bbox": [
+      624.0,
+      1049.694,
+      808.81585,
+      1055.488
+    ],
+    "name": "Chang Yon Lee",
+    "hometown": "Malacca,Malaysia"
+  },
+  {
+    "column": 4,
+    "text": "Fu-ChenSu Miaoli, Taiwan",
+    "bbox": [
+      624.0,
+      1056.694,
+      810.07096,
+      1063.488
+    ],
+    "name": "Fu-ChenSu",
+    "hometown": "Miaoli, Taiwan"
+  },
+  {
+    "column": 4,
+    "text": "Geophysical Engineering",
+    "bbox": [
+      652.28,
+      1071.61,
+      783.6848,
+      1080.26
+    ],
+    "name": "Geophysical Engineering",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Lawrence H. Kumamoto San Francisco, California",
+    "bbox": [
+      625.0,
+      1082.694,
+      809.57786,
+      1089.488
+    ],
+    "name": "Lawrence H. Kumamoto",
+    "hometown": "San Francisco, California"
+  },
+  {
+    "column": 4,
+    "text": "Ulrich Schimschal Evergreen, Colorado",
+    "bbox": [
+      624.0,
+      1090.694,
+      808.6643799999999,
+      1097.488
+    ],
+    "name": "Ulrich Schimschal",
+    "hometown": "Evergreen, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "Geochemistry",
+    "bbox": [
+      680.28,
+      1106.61,
+      754.11096,
+      1114.26
+    ],
+    "name": "Geochemistry",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "Alan Robert Reid Lakewood, Colorado",
+    "bbox": [
+      625.0,
+      1117.694,
+      810.6643799999999,
+      1123.488
+    ],
+    "name": "Alan Robert Reid",
+    "hometown": "Lakewood, Colorado"
+  },
+  {
+    "column": 4,
+    "text": "Mineral Economics",
+    "bbox": [
+      668.72,
+      1133.028,
+      768.4257,
+      1139.268
+    ],
+    "name": "Mineral Economics",
+    "hometown": ""
+  },
+  {
+    "column": 4,
+    "text": "George Solomeh Da\u00dfoi Ramollah, Palestine",
+    "bbox": [
+      625.0,
+      1143.694,
+      809.50602,
+      1149.488
+    ],
+    "name": "George Solomeh Da\u00dfoi",
+    "hometown": "Ramollah, Palestine"
+  },
+  {
+    "column": 4,
+    "text": "Franklin Ernest Grange II Dos Plaines, Illinois",
+    "bbox": [
+      625.0,
+      1151.694,
+      809.8346,
+      1157.488
+    ],
+    "name": "Franklin Ernest Grange II",
+    "hometown": "Dos Plaines, Illinois"
+  },
+  {
+    "column": 4,
+    "text": "Ronald Kelly Tub Lokewood, Colorado",
+    "bbox": [
+      624.72,
+      1159.694,
+      809.6643799999999,
+      1165.488
+    ],
+    "name": "Ronald Kelly Tub",
+    "hometown": "Lokewood, Colorado"
+  }
+]

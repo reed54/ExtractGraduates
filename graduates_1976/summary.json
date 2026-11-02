@@ -1,0 +1,33 @@
+{
+  "profile": "1976",
+  "source": "/Users/jdreed/Documents/CSM/History/ExtractGraduates/GOT_19760506.pdf",
+  "candidates": 282,
+  "verified": false,
+  "section_counts": {
+    "Bachelor Of Science | Mining Engineering | ": 40,
+    "Engineer Of Mines | Mining Engineering | ": 4,
+    "Bachelor Of Science | Metallurgical Engineering | ": 29,
+    "Bachelor Of Science | Geological Engineering | ": 37,
+    "Geological Engineer | Geological Engineering | ": 1,
+    "Bachelor Of Science | Petroleum Engineering | ": 22,
+    "Bachelor Of Science | Chemical and Petroleum-Refining Engineering | ": 24,
+    "Bachelor Of Science | Geophysical Engineering | ": 23,
+    "Bachelor Of Science | Mineral Engineering Chemistry | ": 3,
+    "Bachelor Of Science | Mineral Engineering Mathematics | ": 21,
+    "Bachelor Of Science | Mineral Engineering Physics | ": 15,
+    "Bachelor Of Science | Mineral Engineering | ": 3,
+    "Master Of Science | Mining Engineering | ": 3,
+    "Master Of Science | Metallurgical Engineering | ": 11,
+    "Master Of Science | Geology | ": 9,
+    "Master Of Science | Geological Engineering | ": 1,
+    "Master Of Engineering | Petroleum Engineer | ": 1,
+    "Master Of Science | Petroleum Engineering | ": 2,
+    "Master Of Science | Chemical and Petroleum-Refining Engineering | ": 4,
+    "Master Of Science | Geophysics | ": 4,
+    "Master Of Science | Geophysical Engineering | ": 3,
+    "Master Of Science | Chemistry | ": 2,
+    "Master Of Science | Mathematics | ": 3,
+    "Master Of Science | Physics | ": 1,
+    "Master Of Science | Mineral Economics | ": 16
+  }
+}
